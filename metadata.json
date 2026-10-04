@@ -1,0 +1,6 @@
+{
+  "name": "Abhidhamma Mātika Tester",
+  "description": "Interactive testing and study platform for Abhidhamma Duka Mātikā tables and ultimate reality (dabbattha) classifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

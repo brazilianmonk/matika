@@ -1,0 +1,3721 @@
+{
+  "title": "Ultimate Representation of Duka Mātikā",
+  "subtitle": "Abhidhamma Mātikā Dabbattha (Ultimate Realities)",
+  "gocchakas": [
+    {
+      "id": "hetu-gocchaka",
+      "number": 1,
+      "name": "Hetu Gocchaka",
+      "paliName": "Hetugocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with hetu (roots: lobha, dosa, moha, alobha, adosa, amoha) and their relations with consciousness, mental factors, matter, and Nibbāna.",
+      "dukas": [
+        {
+          "id": "hetu-duka",
+          "number": 1,
+          "name": "Hetu duka",
+          "paliName": "Hetudukaṁ",
+          "description": "Dyad of Roots and Non-roots",
+          "padas": [
+            {
+              "id": "hetu-duka-p1",
+              "pada": "Hetū dhammā",
+              "paliTranslation": "States that are roots",
+              "type": "pada_1",
+              "dabbattha": "Lobha, dosa, moha, alobha, adosa, amoha",
+              "cittas": "0",
+              "cetasikas": "6 hetus (lobha, dosa, moha, alobha, adosa, amoha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Only the six root cetasikas themselves qualify as hetu: 3 unwholesome (lobha, dosa, moha) and 3 beautiful (alobha, adosa, amoha)."
+            },
+            {
+              "id": "hetu-duka-p2",
+              "pada": "Na hetū dhammā",
+              "paliTranslation": "States that are not roots",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 46 cetasikas (excluding 6 hetus), 28 rūpa, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "46 cetasikas (52 minus 6 hetus)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All conditioned realities other than the 6 roots, plus unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sahetu-duka",
+          "number": 2,
+          "name": "Sahetu duka",
+          "paliName": "Sahetukadukaṁ",
+          "description": "Dyad of Root-accompanied and Rootless states",
+          "padas": [
+            {
+              "id": "sahetu-duka-p1",
+              "pada": "Sahetukā dhammā",
+              "paliTranslation": "States accompanied by roots",
+              "type": "pada_1",
+              "dabbattha": "71 sahetuka cittas, their associated 52 cetasikas (excluding moha in two mohamūla cittas)",
+              "cittas": "71 sahetuka cittas",
+              "cetasikas": "52 cetasikas (excluding moha in the 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States co-arising with at least one root. Moha in the 2 mohamūla cittas is excluded because it is the sole root therein and cannot accompany itself."
+            },
+            {
+              "id": "sahetu-duka-p2",
+              "pada": "Ahetukā dhammā",
+              "paliTranslation": "States unaccompanied by roots",
+              "type": "pada_2",
+              "dabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), moha in two mohamūla cittas, 28 rūpas, Nibbāna",
+              "cittas": "18 ahetuka cittas",
+              "cetasikas": "12 cetasikas (excluding chanda) + moha in 2 mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All dhammas devoid of an accompanying root, including rootless consciousness, solitary moha, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "hetusampayutta-duka",
+          "number": 3,
+          "name": "Hetusampayutta duka",
+          "paliName": "Hetusampayuttadukaṁ",
+          "description": "Dyad of Root-conjoined and Root-disjoined states",
+          "padas": [
+            {
+              "id": "hetusampayutta-duka-p1",
+              "pada": "Hetusampayuttā dhammā",
+              "paliTranslation": "States associated with roots",
+              "type": "pada_1",
+              "dabbattha": "71 sahetuka cittas, their associated 52 cetasikas (excluding moha in 2 mohamūla cittas)",
+              "cittas": "71 sahetuka cittas",
+              "cetasikas": "52 cetasikas (excluding moha in 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States conjoined with roots by sharing the four characteristics of mental association."
+            },
+            {
+              "id": "hetusampayutta-duka-p2",
+              "pada": "Hetuvippayuttā dhammā",
+              "paliTranslation": "States dissociated from roots",
+              "type": "pada_2",
+              "dabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), moha in 2 mohamūla cittas, 28 rūpa, Nibbāna",
+              "cittas": "18 ahetuka cittas",
+              "cetasikas": "12 cetasikas (excluding chanda) + moha in 2 mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "States not conjoined with any root: 18 ahetuka cittas, solitary moha, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "hetu-sahetuka-duka",
+          "number": 4,
+          "name": "Hetu-sahetuka duka",
+          "paliName": "Hetu-sahetukadukaṁ",
+          "description": "Dyad of Root-and-accompanied vs Accompanied-non-root",
+          "padas": [
+            {
+              "id": "hetu-sahetuka-duka-p1",
+              "pada": "Hetū ceva dhammā sahetukā ca",
+              "paliTranslation": "States that are both roots and accompanied by roots",
+              "type": "pada_1",
+              "dabbattha": "6 hetus (excluding moha in 2 mohamūla cittas)",
+              "cittas": "0",
+              "cetasikas": "6 hetus (excluding solitary moha in 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Roots that co-exist with a companion root in two-root and three-root cittas."
+            },
+            {
+              "id": "hetu-sahetuka-duka-p2",
+              "pada": "Sahetukā ceva dhammā na ca hetū",
+              "paliTranslation": "States that are accompanied by roots but are not roots",
+              "type": "pada_2",
+              "dabbattha": "71 sahetuka cittas, their associated 46 cetasikas (excluding 6 hetus)",
+              "cittas": "71 sahetuka cittas",
+              "cetasikas": "46 cetasikas (52 cetasikas minus 6 hetus)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Non-root mental dhammas that arise accompanied by root cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Ahetukā dhammā",
+            "fullDabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), moha in two mohamūla cittas, 28 rūpas, Nibbāna",
+            "explanation": "States that are entirely unaccompanied by roots fall outside both padas."
+          }
+        },
+        {
+          "id": "hetu-hetusampayutta-duka",
+          "number": 5,
+          "name": "Hetu-hetusampayutta duka",
+          "paliName": "Hetu-hetusampayuttadukaṁ",
+          "description": "Dyad of Root-and-associated vs Associated-non-root",
+          "padas": [
+            {
+              "id": "hetu-hetusampayutta-duka-p1",
+              "pada": "Hetū ceva dhammā hetusampayuttā ca",
+              "paliTranslation": "States that are roots and associated with roots",
+              "type": "pada_1",
+              "dabbattha": "6 hetus (excluding moha in 2 mohamūla cittas)",
+              "cittas": "0",
+              "cetasikas": "6 hetus (excluding moha in 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Roots associated with co-arising companion roots."
+            },
+            {
+              "id": "hetu-hetusampayutta-duka-p2",
+              "pada": "Hetusampayuttā dhammā na ca hetū",
+              "paliTranslation": "States associated with roots but are not roots",
+              "type": "pada_2",
+              "dabbattha": "71 sahetuka cittas, their associated 46 cetasikas (excluding 6 hetus)",
+              "cittas": "71 sahetuka cittas",
+              "cetasikas": "46 cetasikas (excluding 6 hetus)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Sahetuka consciousness and non-root cetasikas associated with roots."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Hetuvippayuttā dhammā",
+            "fullDabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), moha in 2 mohamūla cittas, 28 rūpa, Nibbāna",
+            "explanation": "States dissociated from roots cannot be included in either pada."
+          }
+        },
+        {
+          "id": "na-hetu-sahetuka-duka",
+          "number": 6,
+          "name": "Na hetu sahetuka duka",
+          "paliName": "Nahetusahetukadukaṁ",
+          "description": "Dyad of Non-root accompanied vs Non-root rootless",
+          "padas": [
+            {
+              "id": "na-hetu-sahetuka-duka-p1",
+              "pada": "Na hetū kho pana dhammā sahetukāpi",
+              "paliTranslation": "States that are not roots, but are accompanied by roots",
+              "type": "pada_1",
+              "dabbattha": "71 sahetuka cittas, their associated 46 cetasikas (excluding 6 hetus)",
+              "cittas": "71 sahetuka cittas",
+              "cetasikas": "46 cetasikas (excluding 6 hetus)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Sahetuka cittas and non-root cetasikas."
+            },
+            {
+              "id": "na-hetu-sahetuka-duka-p2",
+              "pada": "Na hetū kho pana dhammā ahetukāpi",
+              "paliTranslation": "States that are not roots, and are unaccompanied by roots",
+              "type": "pada_2",
+              "dabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), 28 rūpa, Nibbāna",
+              "cittas": "18 ahetuka cittas",
+              "cetasikas": "12 cetasikas (excluding chanda)",
+              "rupa": "28 rūpa",
+              "nibbana": "Nibbāna",
+              "explanation": "Rootless non-roots. Moha in 2 mohamūla cittas is excluded because it is a root."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Hetu dhammā",
+            "fullDabbattha": "Lobha, dosa, moha, alobha, adosa, amoha",
+            "explanation": "All 6 roots are excluded by the prefix 'Na hetū'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "culantara-duka",
+      "number": 2,
+      "name": "Cūlantara Duka",
+      "paliName": "Cūḷantaradukaṁ",
+      "description": "The cluster of 7 minor intermediate dyads classifying dhammas by conditions, conditioned nature, visibility, impingement, physical form, worldliness, and cognizability.",
+      "dukas": [
+        {
+          "id": "sappaccaya-duka",
+          "number": 1,
+          "name": "Sappaccaya duka",
+          "paliName": "Sappaccayadukaṁ",
+          "description": "Dyad of Conditioned (by causes) and Unconditioned",
+          "padas": [
+            {
+              "id": "sappaccaya-duka-p1",
+              "pada": "Sappaccayā dhammā",
+              "paliTranslation": "States with conditions",
+              "type": "pada_1",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane and supramundane conditioned phenomena generated by kamma, citta, utu, and āhāra."
+            },
+            {
+              "id": "sappaccaya-duka-p2",
+              "pada": "Appaccayā dhammā",
+              "paliTranslation": "States without conditions",
+              "type": "pada_2",
+              "dabbattha": "Nibbāna",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "The unconditioned element (Asaṅkhata dhātu), independent of conditions."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sankhata-duka",
+          "number": 2,
+          "name": "Saṅkhata duka",
+          "paliName": "Saṅkhatadukaṁ",
+          "description": "Dyad of Compounded and Uncompounded",
+          "padas": [
+            {
+              "id": "sankhata-duka-p1",
+              "pada": "Saṅkhatā dhammā",
+              "paliTranslation": "States that are compounded",
+              "type": "pada_1",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All phenomena characterized by arising (uppāda), passing away (vaya), and alteration of that which stands (ṭhitassa aññathatta)."
+            },
+            {
+              "id": "sankhata-duka-p2",
+              "pada": "Asaṅkhatā dhammā",
+              "paliTranslation": "States that are uncompounded",
+              "type": "pada_2",
+              "dabbattha": "Nibbāna",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Nibbāna, which has no arising, vanishing, or modification."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sanidassana-duka",
+          "number": 3,
+          "name": "Sanidassana duka",
+          "paliName": "Sanidassanadukaṁ",
+          "description": "Dyad of Visible and Invisible",
+          "padas": [
+            {
+              "id": "sanidassana-duka-p1",
+              "pada": "Sanidassanā dhammā",
+              "paliTranslation": "States that are visible",
+              "type": "pada_1",
+              "dabbattha": "Rūpāyatana (vaṇṇa rūpa)",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "1 rūpa (rūpāyatana / visible form)",
+              "nibbana": "None",
+              "explanation": "Only color/visible form (vaṇṇa rūpa) can be seen with the eye."
+            },
+            {
+              "id": "sanidassana-duka-p2",
+              "pada": "Anidassanā dhammā",
+              "paliTranslation": "States that are invisible",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, 27 rūpas (excluding rūpāyatana/vaṇṇa rūpa), Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "27 rūpas (excluding rūpāyatana)",
+              "nibbana": "Nibbāna",
+              "explanation": "All other physical, mental, and unconditioned realities cannot be seen with visual consciousness."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sappatigha-duka",
+          "number": 4,
+          "name": "Sappaṭigha duka",
+          "paliName": "Sappaṭighadukaṁ",
+          "description": "Dyad of Impinging (Gross) and Non-impinging (Subtle)",
+          "padas": [
+            {
+              "id": "sappatigha-duka-p1",
+              "pada": "Sappaṭighā dhammā",
+              "paliTranslation": "States that react/impinge",
+              "type": "pada_1",
+              "dabbattha": "12 oḷārika rūpas (5 pasāda rūpas, 7 gocara rūpas)",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "12 gross rūpas (5 sensitive bases, 7 sense fields)",
+              "nibbana": "None",
+              "explanation": "Gross matter capable of mutual sensory contact or physical impingement."
+            },
+            {
+              "id": "sappatigha-duka-p2",
+              "pada": "Appaṭighā dhammā",
+              "paliTranslation": "States that do not react/impinge",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, 16 sukhuma rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "16 subtle rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Non-impinging states: subtle physical form, all mental states, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "rupi-duka",
+          "number": 5,
+          "name": "Rūpī duka",
+          "paliName": "Rūpīdukaṁ",
+          "description": "Dyad of Material and Immaterial",
+          "padas": [
+            {
+              "id": "rupi-duka-p1",
+              "pada": "Rūpino dhammā",
+              "paliTranslation": "States that are material",
+              "type": "pada_1",
+              "dabbattha": "28 rūpas",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All 28 material phenomena (4 great essentials + 24 derived matter)."
+            },
+            {
+              "id": "rupi-duka-p2",
+              "pada": "Arūpino dhammā",
+              "paliTranslation": "States that are immaterial",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "All consciousness, mental concomitants, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "lokiya-duka",
+          "number": 6,
+          "name": "Lokiya duka",
+          "paliName": "Lokiyadukaṁ",
+          "description": "Dyad of Mundane and Supramundane",
+          "padas": [
+            {
+              "id": "lokiya-duka-p1",
+              "pada": "Lokiyā dhammā",
+              "paliTranslation": "Mundane states",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Phenomena connected to the worlds of sense desire, fine material, and immaterial existence."
+            },
+            {
+              "id": "lokiya-duka-p2",
+              "pada": "Lokuttarā dhammā",
+              "paliTranslation": "Supramundane states",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas (4 magga, 4 phala)",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Transcendent path and fruition consciousness with associated cetasikas, plus Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "kenaci-vinneyya-duka",
+          "number": 7,
+          "name": "Kenaci viññeyya duka",
+          "paliName": "Kenaciviññeyyadukaṁ",
+          "description": "Dyad of Cognizable by some vs Not cognizable by some",
+          "padas": [
+            {
+              "id": "kenaci-vinneyya-duka-p1",
+              "pada": "Kenaci viññeyyā dhammā",
+              "paliTranslation": "States cognizable by some knowledge",
+              "type": "pada_1",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All four ultimate realities can be known by appropriate types of knowledge (e.g. Omniscience)."
+            },
+            {
+              "id": "kenaci-vinneyya-duka-p2",
+              "pada": "Kenaci na viññeyyā dhammā",
+              "paliTranslation": "States not cognizable by some knowledge",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All four ultimate realities also cannot be completely known by ordinary or inferior knowledges (such as eye consciousness knowing mental factors)."
+            }
+          ],
+          "dukamuttaka": null
+        }
+      ]
+    },
+    {
+      "id": "asava-gocchaka",
+      "number": 3,
+      "name": "Āsava Gocchaka",
+      "paliName": "Āsavagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with āsava (cankers/taints: lobha, diṭṭhi, moha) and their relations with consciousness and ultimate realities.",
+      "dukas": [
+        {
+          "id": "asava-duka",
+          "number": 1,
+          "name": "Āsava duka",
+          "paliName": "Āsavadukaṁ",
+          "description": "Dyad of Cankers and Non-cankers",
+          "padas": [
+            {
+              "id": "asava-duka-p1",
+              "pada": "Āsavā dhammā",
+              "paliTranslation": "States that are cankers",
+              "type": "pada_1",
+              "dabbattha": "Lobha, diṭṭhi, moha",
+              "cittas": "0",
+              "cetasikas": "3 cetasikas (lobha, diṭṭhi, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 4 cankers (kāma, bhava, diṭṭhi, avijjā) reduce to 3 cetasikas: lobha, diṭṭhi, and moha."
+            },
+            {
+              "id": "asava-duka-p2",
+              "pada": "No āsavā dhammā",
+              "paliTranslation": "States that are not cankers",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 49 cetasikas (excluding 3 āsavas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "49 cetasikas (excluding 3 āsavas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All ultimate realities other than the 3 canker cetasikas."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sasava-duka",
+          "number": 2,
+          "name": "Sāsava duka",
+          "paliName": "Sāsavadukaṁ",
+          "description": "Dyad of Taint-prone and Taint-free states",
+          "padas": [
+            {
+              "id": "sasava-duka-p1",
+              "pada": "Sāsavā dhammā",
+              "paliTranslation": "States subject to cankers",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane dhammas that serve as objects of the cankers."
+            },
+            {
+              "id": "sasava-duka-p2",
+              "pada": "Anāsavā dhammā",
+              "paliTranslation": "States not subject to cankers",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane cittas, their cetasikas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "asavasampayutta-duka",
+          "number": 3,
+          "name": "Āsavasampayutta duka",
+          "paliName": "Āsavasampayuttadukaṁ",
+          "description": "Dyad of Canker-conjoined and Canker-disjoined",
+          "padas": [
+            {
+              "id": "asavasampayutta-duka-p1",
+              "pada": "Āsavasampayuttā dhammā",
+              "paliTranslation": "States conjoined with cankers",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas (excluding solitary moha in 2 dosamūla and 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Akusala states associated with at least one āsava. Moha in dosamūla and mohamūla cittas is solitary as an āsava and cannot associate with itself."
+            },
+            {
+              "id": "asavasampayutta-duka-p2",
+              "pada": "Āsavavippayuttā dhammā",
+              "paliTranslation": "States dissociated from cankers",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, rūpa 28, Nibbāna",
+              "cittas": "77 cittas (21 kusala + 36 vipāka + 20 kiriya)",
+              "cetasikas": "38 cetasikas + moha in 2 dosamūla and 2 mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Wholesome, resultant, functional dhammas, solitary moha in dosamūla/mohamūla, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "asava-sasava-duka",
+          "number": 4,
+          "name": "Āsavasāsava duka",
+          "paliName": "Āsavasāsavadukaṁ",
+          "description": "Dyad of Cankers-that-are-taint-prone vs Taint-prone-non-cankers",
+          "padas": [
+            {
+              "id": "asava-sasava-duka-p1",
+              "pada": "Āsavā ceva dhammā sāsavā ca",
+              "paliTranslation": "States that are both cankers and subject to cankers",
+              "type": "pada_1",
+              "dabbattha": "3 āsavas (lobha, diṭṭhi, moha)",
+              "cittas": "0",
+              "cetasikas": "3 āsavas (lobha, diṭṭhi, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 3 canker cetasikas themselves are inherently mundane and subject to being canker objects."
+            },
+            {
+              "id": "asava-sasava-duka-p2",
+              "pada": "Sāsavā ceva dhammā no ca āsavā",
+              "paliTranslation": "States that are subject to cankers but not cankers",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 49 (excluding 3 āsavas), 28 rūpa",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "49 cetasikas (excluding 3 āsavas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane dhammas excluding the 3 āsava cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Anāsavā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states are free from cankers and cannot be categorized under sāsava."
+          }
+        },
+        {
+          "id": "asava-asavasampayutta-duka",
+          "number": 5,
+          "name": "Āsava-āsavasampayutta duka",
+          "paliName": "Āsava-āsavasampayuttadukaṁ",
+          "description": "Dyad of Canker-and-associated vs Associated-non-canker",
+          "padas": [
+            {
+              "id": "asava-asavasampayutta-duka-p1",
+              "pada": "Āsavā ceva dhammā āsavasampayuttā ca",
+              "paliTranslation": "States that are cankers and associated with cankers",
+              "type": "pada_1",
+              "dabbattha": "3 āsavas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "cittas": "0",
+              "cetasikas": "Lobha, diṭṭhi, and moha (where accompanying another āsava)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Āsavas that co-arise with another āsava (e.g. lobha and moha, or lobha, diṭṭhi, and moha)."
+            },
+            {
+              "id": "asava-asavasampayutta-duka-p2",
+              "pada": "Āsavasampayuttā ceva dhammā no ca āsavā",
+              "paliTranslation": "States that are associated with cankers but are not cankers",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 24 cetasikas (excluding 3 āsavas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "24 cetasikas (excluding 3 āsavas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 12 unwholesome consciousnesses and remaining non-āsava cetasikas associated with āsavas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Āsavavippayuttā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, rūpa 28, Nibbāna",
+            "explanation": "States dissociated from cankers fall outside both padas."
+          }
+        },
+        {
+          "id": "asavavippayutta-sasava-duka",
+          "number": 6,
+          "name": "Āsavavippayutta-sāsava duka",
+          "paliName": "Āsavavippayutta-sāsavadukaṁ",
+          "description": "Dyad of Dissociated-taint-prone vs Dissociated-taint-free",
+          "padas": [
+            {
+              "id": "asavavippayutta-sasava-duka-p1",
+              "pada": "Āsavavippayuttā kho pana dhammā sāsavāpi",
+              "paliTranslation": "States dissociated from cankers but subject to cankers",
+              "type": "pada_1",
+              "dabbattha": "17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, 28 rūpas",
+              "cittas": "69 mundane cittas (17 lokiya kusala + 32 lokiya vipāka + 20 kiriya)",
+              "cetasikas": "38 cetasikas + moha in 2 dosamūla and 2 mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane states that are dissociated from cankers."
+            },
+            {
+              "id": "asavavippayutta-sasava-duka-p2",
+              "pada": "Āsavavippayuttā kho pana dhammā anāsavāpi",
+              "paliTranslation": "States dissociated from cankers and free from cankers",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, supramundane cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Āsavasampayuttā dhammā",
+            "fullDabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+            "explanation": "Canker-conjoined states cannot enter padas defined as āsavavippayutta."
+          }
+        }
+      ]
+    },
+    {
+      "id": "samyojana-gocchaka",
+      "number": 4,
+      "name": "Saṃyojana Gocchaka",
+      "paliName": "Saṃyojanagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with the 8 or 10 fetters (lobha, dosa, māna, diṭṭhi, vicikicchā, issā, macchariya, moha) and their relations with consciousness and realities.",
+      "dukas": [
+        {
+          "id": "samyojana-duka",
+          "number": 1,
+          "name": "Saṃyojana duka",
+          "paliName": "Saṃyojanadukaṁ",
+          "description": "Dyad of Fetters and Non-fetters",
+          "padas": [
+            {
+              "id": "samyojana-duka-p1",
+              "pada": "Saṃyojanā dhammā",
+              "paliTranslation": "States that are fetters",
+              "type": "pada_1",
+              "dabbattha": "Lobha, dosa, māna, diṭṭhi, vicikicchā, isssā, macchariya, moha",
+              "cittas": "0",
+              "cetasikas": "8 cetasikas (lobha, dosa, māna, diṭṭhi, vicikicchā, issā, macchariya, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 8 cetasika realities that function as the ten fetters binding beings to saṃsāra."
+            },
+            {
+              "id": "samyojana-duka-p2",
+              "pada": "No saṃyojanā dhammā",
+              "paliTranslation": "States that are not fetters",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 44 cetasikas (excluding 8 saṃyojanas), 28 rūpa, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "44 cetasikas (52 minus 8 saṃyojanas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states apart from the 8 fetters."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "samyojaniya-duka",
+          "number": 2,
+          "name": "Saṃyojaniya duka",
+          "paliName": "Saṃyojaniyadukaṁ",
+          "description": "Dyad of Favourable to fetters and Unfavourable to fetters",
+          "padas": [
+            {
+              "id": "samyojaniya-duka-p1",
+              "pada": "Saṃyojaniyā dhammā",
+              "paliTranslation": "States favourable to fetters",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane dhammas that can become objects of fettering."
+            },
+            {
+              "id": "samyojaniya-duka-p2",
+              "pada": "Asaṃyojaniyā dhammā",
+              "paliTranslation": "States not favourable to fetters",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane cittas, cetasikas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "samyojanasampayutta-duka",
+          "number": 3,
+          "name": "Saṃyojanasampayutta duka",
+          "paliName": "Saṃyojanasampayuttadukaṁ",
+          "description": "Dyad of Fetter-conjoined and Fetter-disjoined",
+          "padas": [
+            {
+              "id": "samyojanasampayutta-duka-p1",
+              "pada": "Saṃyojanasampayuttā dhammā",
+              "paliTranslation": "States conjoined with fetters",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in uddhacca sampayutta citta)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas (excluding solitary moha in uddhaccasampayutta citta)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Akusala states associated with at least one fetter. In uddhacca-sampayutta citta, moha is solitary as a fetter and cannot associate with itself."
+            },
+            {
+              "id": "samyojanasampayutta-duka-p2",
+              "pada": "Saṃyojanavippayuttā dhammā",
+              "paliTranslation": "States dissociated from fetters",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in uddhacca sampayutta citta, 28 rūpa, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "38 cetasikas + moha in uddhaccasampayutta citta",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Kusala, vipāka, kiriya, solitary moha in uddhacca citta, rūpa, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "samyojana-samyojaniya-duka",
+          "number": 4,
+          "name": "Saṃyojana-saṃyojaniya duka",
+          "paliName": "Saṃyojana-saṃyojaniyadukaṁ",
+          "description": "Dyad of Fetter-and-favourable vs Favourable-non-fetter",
+          "padas": [
+            {
+              "id": "samyojana-samyojaniya-duka-p1",
+              "pada": "Saṃyojanā ceva dhammā saṃyojaniyā ca",
+              "paliTranslation": "States that are fetters and favourable to fetters",
+              "type": "pada_1",
+              "dabbattha": "8 saṃyojanas",
+              "cittas": "0",
+              "cetasikas": "8 saṃyojana cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 8 fetter cetasikas are themselves mundane objects of clinging."
+            },
+            {
+              "id": "samyojana-samyojaniya-duka-p2",
+              "pada": "Saṃyojaniyā ceva dhammā no ca saṃyojanā",
+              "paliTranslation": "States favourable to fetters but not fetters",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 44 cetasikas (excluding 8 saṃyojanas), 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "44 cetasikas (excluding 8 saṃyojanas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane consciousness, remaining cetasikas, and physical matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Asaṃyojaniyā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states are completely beyond being objects of fettering."
+          }
+        },
+        {
+          "id": "samyojana-samyojanasampayutta-duka",
+          "number": 5,
+          "name": "Saṃyojana-saṃyojanasampayutta duka",
+          "paliName": "Saṃyojana-saṃyojanasampayuttadukaṁ",
+          "description": "Dyad of Fetter-and-associated vs Associated-non-fetter",
+          "padas": [
+            {
+              "id": "samyojana-samyojanasampayutta-duka-p1",
+              "pada": "Saṃyojanā ceva dhammā saṃyojanasampayuttā ca",
+              "paliTranslation": "States that are fetters and associated with fetters",
+              "type": "pada_1",
+              "dabbattha": "8 saṃyojanas (excluding moha in uddhacca sampayutta citta)",
+              "cittas": "0",
+              "cetasikas": "8 saṃyojanas (excluding solitary moha in uddhacca citta)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The fetter cetasikas that co-arise with another fetter."
+            },
+            {
+              "id": "samyojana-samyojanasampayutta-duka-p2",
+              "pada": "Saṃyojanasampayuttā ceva dhammā no ca saṃyojanā",
+              "paliTranslation": "States associated with fetters but not fetters",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 19 cetasikas (excluding 8 saṃyojanas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "19 cetasikas (27 minus 8 saṃyojanas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Unwholesome consciousness and the non-fetter unwholesome cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Saṃyojanavippayuttā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in uddhacca sampayutta citta, 28 rūpa, Nibbāna",
+            "explanation": "States dissociated from fetters fall outside both padas."
+          }
+        },
+        {
+          "id": "samyojanavippayutta-samyojaniya-duka",
+          "number": 6,
+          "name": "Saṃyojanavippayutta-saṃyojaniya duka",
+          "paliName": "Saṃyojanavippayutta-saṃyojaniyadukaṁ",
+          "description": "Dyad of Dissociated-favourable vs Dissociated-unfavourable",
+          "padas": [
+            {
+              "id": "samyojanavippayutta-samyojaniya-duka-p1",
+              "pada": "Saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi",
+              "paliTranslation": "States dissociated from fetters but favourable to fetters",
+              "type": "pada_1",
+              "dabbattha": "17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in uddhacca sampayutta citta, 28 rūpa",
+              "cittas": "69 mundane cittas",
+              "cetasikas": "38 cetasikas + solitary moha in uddhacca citta",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane states that are dissociated from fetters."
+            },
+            {
+              "id": "samyojanavippayutta-samyojaniya-duka-p2",
+              "pada": "Saṃyojanavippayuttā kho pana dhammā asaṃyojaniyāpi",
+              "paliTranslation": "States dissociated from fetters and not favourable to fetters",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Saṃyojanasampayuttā dhammā",
+            "fullDabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in uddhacca sampayutta citta)",
+            "explanation": "States conjoined with fetters cannot enter padas requiring saṃyojanavippayutta."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gantha-gocchaka",
+      "number": 5,
+      "name": "Gantha Gocchaka",
+      "paliName": "Ganthagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with the 4 ties (gantha: abhijjhyā, byāpāda, sīlabbataparāmāsa, idaṃsaccābhinivesa) which comprise 3 cetasikas (lobha, diṭṭhi, dosa).",
+      "dukas": [
+        {
+          "id": "gantha-duka",
+          "number": 1,
+          "name": "Gantha duka",
+          "paliName": "Ganthadukaṁ",
+          "description": "Dyad of Ties and Non-ties",
+          "padas": [
+            {
+              "id": "gantha-duka-p1",
+              "pada": "Ganthā dhammā",
+              "paliTranslation": "States that are ties",
+              "type": "pada_1",
+              "dabbattha": "Lobha, diṭṭhi, dosa",
+              "cittas": "0",
+              "cetasikas": "3 cetasikas (lobha, diṭṭhi, dosa)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 4 ties reduce to 3 cetasikas: covetousness (lobha), ill-will (dosa), and wrong view (diṭṭhi: clinging to rules and misapprehension of truth)."
+            },
+            {
+              "id": "gantha-duka-p2",
+              "pada": "No ganthā dhammā",
+              "paliTranslation": "States that are not ties",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 49 cetasikas (excluding 3 ganthas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "49 cetasikas (excluding 3 ganthas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states besides the 3 ties."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "ganthaniya-duka",
+          "number": 2,
+          "name": "Ganthaniya duka",
+          "paliName": "Ganthaniyadukaṁ",
+          "description": "Dyad of Tie-bound and Tie-free",
+          "padas": [
+            {
+              "id": "ganthaniya-duka-p1",
+              "pada": "Ganthaniyā dhammā",
+              "paliTranslation": "States favourable to ties",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane phenomena."
+            },
+            {
+              "id": "ganthaniya-duka-p2",
+              "pada": "Aganthaniyā dhammā",
+              "paliTranslation": "States not favourable to ties",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, supramundane cetasikas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "ganthasampayutta-duka",
+          "number": 3,
+          "name": "Ganthasampayutta duka",
+          "paliName": "Ganthasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with ties and Disjoined from ties",
+          "padas": [
+            {
+              "id": "ganthasampayutta-duka-p1",
+              "pada": "Ganthasampayuttā dhammā",
+              "paliTranslation": "States conjoined with ties",
+              "type": "pada_1",
+              "dabbattha": "8 lobhamūla cittas, 2 dosamūla cittas, their associated 25 cetasikas (excluding dosa, vicikicchā, lobha in 4 lobhamūla diṭṭhigata vippayutta cittas)",
+              "cittas": "10 cittas (8 lobhamūla + 2 dosamūla)",
+              "cetasikas": "25 cetasikas (excluding dosa, vicikicchā, and lobha in 4 diṭṭhigata-vippayutta cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States associated with at least one tie. Dosa in 2 dosamūla cittas is the solitary tie therein, as is lobha in the 4 diṭṭhigata-vippayutta lobha cittas."
+            },
+            {
+              "id": "ganthasampayutta-duka-p2",
+              "pada": "Ganthavippayuttā dhammā",
+              "paliTranslation": "States dissociated from ties",
+              "type": "pada_2",
+              "dabbattha": "2 mohamūla cittas, 21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 43 cetasikas (excluding lobhādi tika, dosādi catukka, 2 thīnamiddha), dosa in two dosamūla cittas, lobha in 4 lobhamūla diṭṭhigata vippayutta cittas, 28 rūpa, Nibbāna",
+              "cittas": "79 cittas",
+              "cetasikas": "43 cetasikas + solitary dosa and lobha mentioned",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All remaining states dissociated from ties."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "gantha-ganthaniya-duka",
+          "number": 4,
+          "name": "Gantha-ganthaniya duka",
+          "paliName": "Gantha-ganthaniyadukaṁ",
+          "description": "Dyad of Tie-and-favourable vs Favourable-non-tie",
+          "padas": [
+            {
+              "id": "gantha-ganthaniya-duka-p1",
+              "pada": "Ganthā ceva dhammā ganthaniyā ca",
+              "paliTranslation": "States that are ties and favourable to ties",
+              "type": "pada_1",
+              "dabbattha": "3 ganthas (lobha, diṭṭhi, dosa)",
+              "cittas": "0",
+              "cetasikas": "3 ganthas (lobha, diṭṭhi, dosa)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 3 tie cetasikas."
+            },
+            {
+              "id": "gantha-ganthaniya-duka-p2",
+              "pada": "Ganthaniyā ceva dhammā no ca ganthā",
+              "paliTranslation": "States favourable to ties but not ties",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 49 cetasikas (excluding 3 ganthas), 28 rūpa",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "49 cetasikas (excluding 3 ganthas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane consciousness, non-tie cetasikas, and matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Aganthaniyā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane dhammas."
+          }
+        },
+        {
+          "id": "gantha-ganthasampayutta-duka",
+          "number": 5,
+          "name": "Gantha-ganthasampayutta duka",
+          "paliName": "Gantha-ganthasampayuttadukaṁ",
+          "description": "Dyad of Tie-and-associated vs Associated-non-tie",
+          "padas": [
+            {
+              "id": "gantha-ganthasampayutta-duka-p1",
+              "pada": "Ganthā ceva dhammā ganthasampayuttā ca",
+              "paliTranslation": "States that are ties and associated with ties",
+              "type": "pada_1",
+              "dabbattha": "Lobha in 4 diṭṭhigata sampayutta cittas and diṭṭhi",
+              "cittas": "0",
+              "cetasikas": "Lobha and diṭṭhi in the 4 diṭṭhigata-sampayutta cittas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Lobha and diṭṭhi co-arising together are both ties and mutual associates of a tie."
+            },
+            {
+              "id": "gantha-ganthasampayutta-duka-p2",
+              "pada": "Ganthasampayuttā ceva dhammā no ca ganthā",
+              "paliTranslation": "States associated with ties but not ties",
+              "type": "pada_2",
+              "dabbattha": "8 lobhamūla cittas, 2 dosamūla cittas, their associated 23 cetasikas (excluding lobha, diṭṭhi, dosa, vicikichā)",
+              "cittas": "10 cittas (8 lobhamūla + 2 dosamūla)",
+              "cetasikas": "23 cetasikas (excluding lobha, diṭṭhi, dosa, vicikicchā)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 10 cittas and non-tie cetasikas occurring in tie-conjoined consciousness."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Ganthavippayuttā dhammā",
+            "fullDabbattha": "2 mohamūla cittas, 21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 43 cetasikas (excluding lobhādi tika, dosādi catukka, 2 thīnamiddha), dosa in two dosamūla cittas, lobha in 4 lobhamūla diṭṭhigata vippayutta cittas, 28 rūpa, Nibbāna",
+            "explanation": "States dissociated from ties."
+          }
+        },
+        {
+          "id": "ganthavippayutta-ganthaniya-duka",
+          "number": 6,
+          "name": "Ganthavippayutta-ganthaniya duka",
+          "paliName": "Ganthavippayutta-ganthaniyadukaṁ",
+          "description": "Dyad of Dissociated-favourable vs Dissociated-unfavourable",
+          "padas": [
+            {
+              "id": "ganthavippayutta-ganthaniya-duka-p1",
+              "pada": "Ganthavippayuttā kho pana dhammā ganthaniyāpi",
+              "paliTranslation": "States dissociated from ties but favourable to ties",
+              "type": "pada_1",
+              "dabbattha": "2 mohamūla cittas, 17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriya cittas, their associated 43 cetasikas (excluding lobhādi tika, dosādi catukka, 2 thīnamiddha), dosa in two dosamūla cittas, lobha in 4 lobhamūla diṭṭhigata vippayutta cittas, 28 rūpa",
+              "cittas": "71 mundane cittas",
+              "cetasikas": "43 cetasikas + solitary dosa and lobha",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane states dissociated from ties."
+            },
+            {
+              "id": "ganthavippayutta-ganthaniya-duka-p2",
+              "pada": "Ganthavippayuttā kho pana dhammā aganthaniyāpi",
+              "paliTranslation": "States dissociated from ties and not favourable to ties",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Ganthasampayuttā dhammā",
+            "fullDabbattha": "8 lobhamūla cittas, 2 dosamūla cittas, their associated 25 cetasikas (excluding dosa, vicikicchā, lobha in 4 lobhamūla diṭṭhigata vippayutta cittas)",
+            "explanation": "Tie-conjoined states."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ogha-gocchaka",
+      "number": 6,
+      "name": "Ogha Gocchaka",
+      "paliName": "Oghagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with the 4 floods (ogha: kāmogha, bhavogha, diṭṭhogha, avijjogha) comprising lobha, diṭṭhi, and moha.",
+      "dukas": [
+        {
+          "id": "ogha-duka",
+          "number": 1,
+          "name": "Ogha duka",
+          "paliName": "Oghadukaṁ",
+          "description": "Dyad of Floods and Non-floods",
+          "padas": [
+            {
+              "id": "ogha-duka-p1",
+              "pada": "Oghā dhammā",
+              "paliTranslation": "States that are floods",
+              "type": "pada_1",
+              "dabbattha": "Lobha, diṭṭhi, moha",
+              "cittas": "0",
+              "cetasikas": "3 cetasikas (lobha, diṭṭhi, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 4 floods sweeping beings down into the ocean of saṃsāra comprise lobha, diṭṭhi, and moha."
+            },
+            {
+              "id": "ogha-duka-p2",
+              "pada": "No oghā dhammā",
+              "paliTranslation": "States that are not floods",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 49 cetasikas (excluding 3 oghas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "49 cetasikas (excluding 3 oghas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states besides the 3 floods."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "oghaniya-duka",
+          "number": 2,
+          "name": "Oghaniya duka",
+          "paliName": "Oghaniyadukaṁ",
+          "description": "Dyad of Flood-prone and Flood-free",
+          "padas": [
+            {
+              "id": "oghaniya-duka-p1",
+              "pada": "Oghaniyā dhammā",
+              "paliTranslation": "States subject to floods",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane realities that can be overwhelmed by floods."
+            },
+            {
+              "id": "oghaniya-duka-p2",
+              "pada": "Anoghaniyā dhammā",
+              "paliTranslation": "States not subject to floods",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "oghasampayutta-duka",
+          "number": 3,
+          "name": "Oghasampayutta duka",
+          "paliName": "Oghasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with floods and Disjoined from floods",
+          "padas": [
+            {
+              "id": "oghasampayutta-duka-p1",
+              "pada": "Oghasampayuttā dhammā",
+              "paliTranslation": "States conjoined with floods",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Akusala states associated with at least one flood factor."
+            },
+            {
+              "id": "oghasampayutta-duka-p2",
+              "pada": "Oghavippayuttā dhammā",
+              "paliTranslation": "States dissociated from floods",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, rūpa 28, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "38 cetasikas + solitary moha in dosamūla and mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All states dissociated from floods."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "ogha-oghaniya-duka",
+          "number": 4,
+          "name": "Ogha-oghaniya duka",
+          "paliName": "Ogha-oghaniyadukaṁ",
+          "description": "Dyad of Flood-and-subject-to-flood vs Subject-to-flood-non-flood",
+          "padas": [
+            {
+              "id": "ogha-oghaniya-duka-p1",
+              "pada": "Oghā ceva dhammā oghaniyā ca",
+              "paliTranslation": "States that are floods and subject to floods",
+              "type": "pada_1",
+              "dabbattha": "3 oghas (lobha, diṭṭhi, moha)",
+              "cittas": "0",
+              "cetasikas": "3 oghas (lobha, diṭṭhi, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 3 flood cetasikas are themselves mundane phenomena."
+            },
+            {
+              "id": "ogha-oghaniya-duka-p2",
+              "pada": "Oghaniyā ceva dhammā no ca oghā",
+              "paliTranslation": "States subject to floods but not floods",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 49 (excluding 3 oghas), 28 rūpa",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "49 cetasikas (excluding 3 oghas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane consciousness, non-flood cetasikas, and matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Anoghaniyā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states."
+          }
+        },
+        {
+          "id": "ogha-oghasampayutta-duka",
+          "number": 5,
+          "name": "Ogha-oghasampayutta duka",
+          "paliName": "Ogha-oghasampayuttadukaṁ",
+          "description": "Dyad of Flood-and-associated vs Associated-non-flood",
+          "padas": [
+            {
+              "id": "ogha-oghasampayutta-duka-p1",
+              "pada": "Oghā ceva dhammā oghasampayuttā ca",
+              "paliTranslation": "States that are floods and associated with floods",
+              "type": "pada_1",
+              "dabbattha": "3 oghas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "cittas": "0",
+              "cetasikas": "3 oghas (excluding solitary moha in dosamūla and mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Floods accompanied by another flood."
+            },
+            {
+              "id": "ogha-oghasampayutta-duka-p2",
+              "pada": "Oghasampayuttā ceva dhammā no ca oghā",
+              "paliTranslation": "States associated with floods but not floods",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 24 cetasikas (excluding 3 oghas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "24 cetasikas (excluding 3 oghas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 12 akusala cittas and non-flood unwholesome cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Oghavippayuttā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, rūpa 28, Nibbāna",
+            "explanation": "States dissociated from floods."
+          }
+        },
+        {
+          "id": "oghavippayutta-oghaniya-duka",
+          "number": 6,
+          "name": "Oghavippayutta-oghaniya duka",
+          "paliName": "Oghavippayutta-oghaniyadukaṁ",
+          "description": "Dyad of Dissociated-flood-prone vs Dissociated-flood-free",
+          "padas": [
+            {
+              "id": "oghavippayutta-oghaniya-duka-p1",
+              "pada": "Oghavippayuttā kho pana dhammā oghaniyāpi",
+              "paliTranslation": "States dissociated from floods but subject to floods",
+              "type": "pada_1",
+              "dabbattha": "17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, 28 rūpas",
+              "cittas": "69 mundane cittas",
+              "cetasikas": "38 cetasikas + solitary moha in dosamūla and mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane dhammas dissociated from floods."
+            },
+            {
+              "id": "oghavippayutta-oghaniya-duka-p2",
+              "pada": "Oghavippayuttā kho pana dhammā anoghaniyāpi",
+              "paliTranslation": "States dissociated from floods and not subject to floods",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Oghasampayuttā dhammā",
+            "fullDabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+            "explanation": "Flood-conjoined states."
+          }
+        }
+      ]
+    },
+    {
+      "id": "yoga-gocchaka",
+      "number": 7,
+      "name": "Yoga Gocchaka",
+      "paliName": "Yogagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with the 4 yokes (yoga: kāmayoga, bhavayoga, diṭṭhiyoga, avijjāyoga) comprising lobha, diṭṭhi, and moha.",
+      "dukas": [
+        {
+          "id": "yoga-duka",
+          "number": 1,
+          "name": "Yoga duka",
+          "paliName": "Yogadukaṁ",
+          "description": "Dyad of Yokes and Non-yokes",
+          "padas": [
+            {
+              "id": "yoga-duka-p1",
+              "pada": "Yogā dhammā",
+              "paliTranslation": "States that are yokes",
+              "type": "pada_1",
+              "dabbattha": "Lobha, diṭṭhi, moha",
+              "cittas": "0",
+              "cetasikas": "3 cetasikas (lobha, diṭṭhi, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 4 yokes that yoke beings to suffering reduce to 3 cetasikas: lobha, diṭṭhi, and moha."
+            },
+            {
+              "id": "yoga-duka-p2",
+              "pada": "No yogā dhammā",
+              "paliTranslation": "States that are not yokes",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 49 cetasikas (excluding 3 yogas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "49 cetasikas (excluding 3 yogas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states besides the 3 yokes."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "yoganiya-duka",
+          "number": 2,
+          "name": "Yoganiya duka",
+          "paliName": "Yoganiyadukaṁ",
+          "description": "Dyad of Yoke-prone and Yoke-free",
+          "padas": [
+            {
+              "id": "yoganiya-duka-p1",
+              "pada": "Yoganiyā dhammā",
+              "paliTranslation": "States subject to yokes",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane dhammas that serve as objects of yoking."
+            },
+            {
+              "id": "yoganiya-duka-p2",
+              "pada": "Ayoganiyā dhammā",
+              "paliTranslation": "States not subject to yokes",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "yogasampayutta-duka",
+          "number": 3,
+          "name": "Yogasampayutta duka",
+          "paliName": "Yogasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with yokes and Disjoined from yokes",
+          "padas": [
+            {
+              "id": "yogasampayutta-duka-p1",
+              "pada": "Yogasampayuttā dhammā",
+              "paliTranslation": "States conjoined with yokes",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Akusala states associated with at least one yoke factor."
+            },
+            {
+              "id": "yogasampayutta-duka-p2",
+              "pada": "Yogavippayuttā dhammā",
+              "paliTranslation": "States dissociated from yokes",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, rūpa 28, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "38 cetasikas + solitary moha in dosamūla and mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Wholesome, resultant, functional dhammas, solitary moha, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "yoga-yoganiya-duka",
+          "number": 4,
+          "name": "Yoga-yoganiya duka",
+          "paliName": "Yoga-yoganiyadukaṁ",
+          "description": "Dyad of Yoke-and-subject-to-yoke vs Subject-to-yoke-non-yoke",
+          "padas": [
+            {
+              "id": "yoga-yoganiya-duka-p1",
+              "pada": "Yogā ceva dhammā yoganiyā ca",
+              "paliTranslation": "States that are yokes and subject to yokes",
+              "type": "pada_1",
+              "dabbattha": "3 yogas (lobha, diṭṭhi, moha)",
+              "cittas": "0",
+              "cetasikas": "3 yogas (lobha, diṭṭhi, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 3 yoke cetasikas themselves."
+            },
+            {
+              "id": "yoga-yoganiya-duka-p2",
+              "pada": "Yoganiyā ceva dhammā no ca yogā",
+              "paliTranslation": "States subject to yokes but not yokes",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 49 (excluding 3 yogas), 28 rūpa",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "49 cetasikas (excluding 3 yogas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane consciousness, non-yoke cetasikas, and physical matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Ayoganiyā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states."
+          }
+        },
+        {
+          "id": "yoga-yogasampayutta-duka",
+          "number": 5,
+          "name": "Yoga-yogasampayutta duka",
+          "paliName": "Yoga-yogasampayuttadukaṁ",
+          "description": "Dyad of Yoke-and-associated vs Associated-non-yoke",
+          "padas": [
+            {
+              "id": "yoga-yogasampayutta-duka-p1",
+              "pada": "Yogā ceva dhammā yogasampayuttā ca",
+              "paliTranslation": "States that are yokes and associated with yokes",
+              "type": "pada_1",
+              "dabbattha": "3 yogas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+              "cittas": "0",
+              "cetasikas": "3 yogas (excluding solitary moha in dosamūla and mohamūla cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Yokes that co-arise with another yoke."
+            },
+            {
+              "id": "yoga-yogasampayutta-duka-p2",
+              "pada": "Yogasampayuttā ceva dhammā no ca yogā",
+              "paliTranslation": "States associated with yokes but not yokes",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 24 cetasikas (excluding 3 yogas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "24 cetasikas (excluding 3 yogas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 12 akusala cittas and non-yoke cetasikas associated with yokes."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Yogavippayuttā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, rūpa 28, Nibbāna",
+            "explanation": "States dissociated from yokes."
+          }
+        },
+        {
+          "id": "yogavippayutta-yoganiya-duka",
+          "number": 6,
+          "name": "Yogavippayutta-yoganiya duka",
+          "paliName": "Yogavippayutta-yoganiyadukaṁ",
+          "description": "Dyad of Dissociated-yoke-prone vs Dissociated-yoke-free",
+          "padas": [
+            {
+              "id": "yogavippayutta-yoganiya-duka-p1",
+              "pada": "Yogavippayuttā kho pana dhammā yoganiyāpi",
+              "paliTranslation": "States dissociated from yokes but subject to yokes",
+              "type": "pada_1",
+              "dabbattha": "17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriya cittas, their associated 38 cetasikas, moha in 2 dosamūla cittas and 2 mohamūla cittas, 28 rūpas",
+              "cittas": "69 mundane cittas",
+              "cetasikas": "38 cetasikas + solitary moha in dosamūla and mohamūla cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane dhammas dissociated from yokes."
+            },
+            {
+              "id": "yogavippayutta-yoganiya-duka-p2",
+              "pada": "Yogavippayuttā kho pana dhammā ayoganiyāpi",
+              "paliTranslation": "States dissociated from yokes and not subject to yokes",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Yogasampayuttā dhammā",
+            "fullDabbattha": "12 akusala cittas, their associated 27 cetasikas (excluding moha in 2 dosamūla cittas and 2 mohamūla cittas)",
+            "explanation": "Yoke-conjoined states."
+          }
+        }
+      ]
+    },
+    {
+      "id": "nivara-gocchaka",
+      "number": 8,
+      "name": "Nīvara Gocchaka",
+      "paliName": "Nīvaraṇagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with the hindrances (nīvaraṇa: lobha, dosa, thīna, middha, uddhacca, kukkucca, vicikicchā, moha) obstructing mental clarity and jhana.",
+      "dukas": [
+        {
+          "id": "nivarana-duka",
+          "number": 1,
+          "name": "Nīvaraṇa duka",
+          "paliName": "Nīvaraṇadukaṁ",
+          "description": "Dyad of Hindrances and Non-hindrances",
+          "padas": [
+            {
+              "id": "nivarana-duka-p1",
+              "pada": "Nīvaraṇā dhammā",
+              "paliTranslation": "States that are hindrances",
+              "type": "pada_1",
+              "dabbattha": "Lobha, dosa, thīna, middha, uddhacca, kukkucca, vicikicchā, moha",
+              "cittas": "0",
+              "cetasikas": "8 cetasikas (lobha, dosa, thīna, middha, uddhacca, kukkucca, vicikicchā, moha)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 8 cetasikas constituting the hindrance factors."
+            },
+            {
+              "id": "nivarana-duka-p2",
+              "pada": "No nīvaraṇā dhammā",
+              "paliTranslation": "States that are not hindrances",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 44 cetasikas (excluding the 8 nīvaraṇas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "44 cetasikas (52 minus 8 nīvaraṇas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states apart from the 8 hindrance cetasikas."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "nivaraniya-duka",
+          "number": 2,
+          "name": "Nīvaraṇiya duka",
+          "paliName": "Nīvaraṇiyadukaṁ",
+          "description": "Dyad of Hindrance-prone and Hindrance-free",
+          "padas": [
+            {
+              "id": "nivaraniya-duka-p1",
+              "pada": "Nīvaraṇiyā dhammā",
+              "paliTranslation": "States subject to hindrances",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane dhammas that can form an object of the hindrances."
+            },
+            {
+              "id": "nivaraniya-duka-p2",
+              "pada": "Anīvaraṇiyā dhammā",
+              "paliTranslation": "States not subject to hindrances",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane cittas, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "nivaranasampayutta-duka",
+          "number": 3,
+          "name": "Nīvaraṇasampayutta duka",
+          "paliName": "Nīvaraṇasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with hindrances and Disjoined from hindrances",
+          "padas": [
+            {
+              "id": "nivaranasampayutta-duka-p1",
+              "pada": "Nīvaraṇasampayuttā dhammā",
+              "paliTranslation": "States conjoined with hindrances",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "All 12 unwholesome consciousnesses and all 27 unwholesome cetasikas (every akusala citta has uddhacca and moha, so all are hindrance-conjoined)."
+            },
+            {
+              "id": "nivaranasampayutta-duka-p2",
+              "pada": "Nīvaraṇavippayuttā dhammā",
+              "paliTranslation": "States dissociated from hindrances",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "38 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All wholesome, resultant, functional cittas, associated cetasikas, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "nivarana-nivaraniya-duka",
+          "number": 4,
+          "name": "Nīvaraṇa-nīvaraṇiya duka",
+          "paliName": "Nīvaraṇa-nīvaraṇiyadukaṁ",
+          "description": "Dyad of Hindrance-and-subject-to-hindrance vs Subject-to-hindrance-non-hindrance",
+          "padas": [
+            {
+              "id": "nivarana-nivaraniya-duka-p1",
+              "pada": "Nīvaraṇā ceva dhammā nīvaraṇiyā ca",
+              "paliTranslation": "States that are hindrances and subject to hindrances",
+              "type": "pada_1",
+              "dabbattha": "8 nīvaraṇas (lobha, dosa, thīna, middha, uddhacca, kukkucca, vicikicchā, moha)",
+              "cittas": "0",
+              "cetasikas": "8 nīvaraṇa cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 8 hindrance cetasikas themselves."
+            },
+            {
+              "id": "nivarana-nivaraniya-duka-p2",
+              "pada": "Nīvaraṇiyā ceva dhammā no ca nīvaraṇā",
+              "paliTranslation": "States subject to hindrances but not hindrances",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 44 cetasikas (excluding the 8 nīvaraṇas), 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "44 cetasikas (excluding the 8 nīvaraṇas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane consciousness, remaining cetasikas, and physical matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Anīvaraṇiyā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states."
+          }
+        },
+        {
+          "id": "nivarana-nivaranasampayutta-duka",
+          "number": 5,
+          "name": "Nīvaraṇa-nīvaraṇasampayutta duka",
+          "paliName": "Nīvaraṇa-nīvaraṇasampayuttadukaṁ",
+          "description": "Dyad of Hindrance-and-associated vs Associated-non-hindrance",
+          "padas": [
+            {
+              "id": "nivarana-nivaranasampayutta-duka-p1",
+              "pada": "Nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca",
+              "paliTranslation": "States that are hindrances and associated with hindrances",
+              "type": "pada_1",
+              "dabbattha": "8 nīvaraṇas (lobha, dosa, thīna, middha, uddhacca, kukkucca, vicikicchā, moha)",
+              "cittas": "0",
+              "cetasikas": "8 nīvaraṇas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Every hindrance co-arises with at least one other hindrance (moha and uddhacca are universally present in all akusala)."
+            },
+            {
+              "id": "nivarana-nivaranasampayutta-duka-p2",
+              "pada": "Nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā",
+              "paliTranslation": "States associated with hindrances but not hindrances",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 19 cetasikas (excluding the 8 nīvaraṇas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "19 cetasikas (27 minus 8 nīvaraṇas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 12 akusala cittas and non-hindrance unwholesome cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Nīvaraṇavippayuttā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas, Nibbāna",
+            "explanation": "States dissociated from hindrances."
+          }
+        },
+        {
+          "id": "nivaranavippayutta-nivaraniya-duka",
+          "number": 6,
+          "name": "Nīvaraṇavippayutta-nīvaraṇiya duka",
+          "paliName": "Nīvaraṇavippayutta-nīvaraṇiyadukaṁ",
+          "description": "Dyad of Dissociated-hindrance-prone vs Dissociated-hindrance-free",
+          "padas": [
+            {
+              "id": "nivaranavippayutta-nivaraniya-duka-p1",
+              "pada": "Nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi",
+              "paliTranslation": "States dissociated from hindrances but subject to hindrances",
+              "type": "pada_1",
+              "dabbattha": "17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas",
+              "cittas": "69 mundane cittas",
+              "cetasikas": "38 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane wholesome, resultant, and functional states and matter."
+            },
+            {
+              "id": "nivaranavippayutta-nivaraniya-duka-p2",
+              "pada": "Nīvaraṇavippayuttā kho pana dhammā anīvaraṇiyāpi",
+              "paliTranslation": "States dissociated from hindrances and not subject to hindrances",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Nīvaraṇasampayuttā dhammā",
+            "fullDabbattha": "12 akusala cittas, their associated 27 cetasikas",
+            "explanation": "Hindrance-conjoined states."
+          }
+        }
+      ]
+    },
+    {
+      "id": "paramasa-gocchaka",
+      "number": 9,
+      "name": "Parāmāsa Gocchaka",
+      "paliName": "Parāmāsagocchakaṁ",
+      "description": "The cluster of dyads dealing with misapprehension/dogmatism (parāmāsa = diṭṭhi) and its relations with consciousness and realities.",
+      "dukas": [
+        {
+          "id": "paramasa-duka",
+          "number": 1,
+          "name": "Parāmāsa duka",
+          "paliName": "Parāmāsadukaṁ",
+          "description": "Dyad of Misapprehension and Non-misapprehension",
+          "padas": [
+            {
+              "id": "paramasa-duka-p1",
+              "pada": "Parāmāsā dhammā",
+              "paliTranslation": "States that are misapprehensions",
+              "type": "pada_1",
+              "dabbattha": "Diṭṭhi",
+              "cittas": "0",
+              "cetasikas": "1 cetasika (diṭṭhi)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Only the wrong-view cetasika (diṭṭhi) itself is called parāmāsa."
+            },
+            {
+              "id": "paramasa-duka-p2",
+              "pada": "No parāmāsā dhammā",
+              "paliTranslation": "States that are not misapprehensions",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 51 cetasikas (excluding diṭṭhi), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "51 cetasikas (excluding diṭṭhi)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states besides diṭṭhi."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "paramattha-duka",
+          "number": 2,
+          "name": "Parāmaṭṭha duka",
+          "paliName": "Parāmaṭṭhadukaṁ",
+          "description": "Dyad of Misapprehended (clung to as 'mine'/'self') and Not-misapprehended",
+          "padas": [
+            {
+              "id": "paramattha-duka-p1",
+              "pada": "Parāmaṭṭhā dhammā",
+              "paliTranslation": "States subject to misapprehension",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane phenomena that can be grasped by wrong view."
+            },
+            {
+              "id": "paramattha-duka-p2",
+              "pada": "Aparāmaṭṭhā dhammā",
+              "paliTranslation": "States not subject to misapprehension",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "paramasasampayutta-duka",
+          "number": 3,
+          "name": "Parāmāsasampayutta duka",
+          "paliName": "Parāmāsasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with misapprehension and Disjoined from misapprehension",
+          "padas": [
+            {
+              "id": "paramasasampayutta-duka-p1",
+              "pada": "Parāmāsasampayuttā dhammā",
+              "paliTranslation": "States conjoined with misapprehension",
+              "type": "pada_1",
+              "dabbattha": "4 lobhamūla diṭṭhigata sampayutta cittas, their associated 20 cetasikas (excluding diṭṭhi, māna, dosacatukka and vicikicchā)",
+              "cittas": "4 lobhamūla diṭṭhigata-sampayutta cittas",
+              "cetasikas": "20 cetasikas (associated non-diṭṭhi cetasikas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The cittas and mental factors co-arising with diṭṭhi (excluding diṭṭhi itself, since a dhamma cannot associate with itself)."
+            },
+            {
+              "id": "paramasasampayutta-duka-p2",
+              "pada": "Parāmāsavippayuttā dhammā",
+              "paliTranslation": "States dissociated from misapprehension",
+              "type": "pada_2",
+              "dabbattha": "4 lobhamūla diṭṭhigata vippayutta cittas, 2 dosamūla cittas, 2 mohamūla cittas, 21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 51 cetasikas (excluding diṭṭhi), 28 rūpas, Nibbāna",
+              "cittas": "85 cittas (89 minus 4 diṭṭhigata-sampayutta)",
+              "cetasikas": "51 cetasikas (excluding diṭṭhi)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All remaining cittas, non-diṭṭhi cetasikas, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Diṭṭhi",
+            "fullDabbattha": "Diṭṭhi cetasika",
+            "explanation": "Diṭṭhi itself is not parāmāsasampayutta (cannot associate with itself) and cannot be classed as parāmāsavippayutta since it is the very parāmāsa."
+          }
+        },
+        {
+          "id": "paramasa-paramattha-duka",
+          "number": 4,
+          "name": "Parāmāsa-parāmaṭṭha duka",
+          "paliName": "Parāmāsa-parāmaṭṭhadukaṁ",
+          "description": "Dyad of Misapprehension-and-subject-to-it vs Subject-to-it-non-misapprehension",
+          "padas": [
+            {
+              "id": "paramasa-paramattha-duka-p1",
+              "pada": "Parāmāsā ceva dhammā parāmaṭṭhā ca",
+              "paliTranslation": "States that are misapprehensions and subject to misapprehension",
+              "type": "pada_1",
+              "dabbattha": "Diṭṭhi",
+              "cittas": "0",
+              "cetasikas": "1 cetasika (diṭṭhi)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Diṭṭhi itself is mundane and subject to being misapprehended."
+            },
+            {
+              "id": "paramasa-paramattha-duka-p2",
+              "pada": "Parāmaṭṭhā ceva dhammā no ca parāmāsā",
+              "paliTranslation": "States subject to misapprehension but not misapprehensions",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 51 cetasikas (excluding diṭṭhi), 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "51 cetasikas (excluding diṭṭhi)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane cittas, remaining cetasikas, and physical matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Aparāmaṭṭhā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states."
+          }
+        },
+        {
+          "id": "paramasavippayutta-paramattha-duka",
+          "number": 5,
+          "name": "Parāmāsavippayutta-parāmaṭṭha duka",
+          "paliName": "Parāmāsavippayutta-parāmaṭṭhadukaṁ",
+          "description": "Dyad of Dissociated-subject-to-misapprehension vs Dissociated-free-from-misapprehension",
+          "padas": [
+            {
+              "id": "paramasavippayutta-paramattha-duka-p1",
+              "pada": "Parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi",
+              "paliTranslation": "States dissociated from misapprehension but subject to misapprehension",
+              "type": "pada_1",
+              "dabbattha": "4 lobhamūla diṭṭhigata vippayutta cittas, 2 dosamūla cittas, 2 mohamūla cittas, 17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriyā cittas, their associated 51 cetasikas (excluding diṭṭhi), 28 rūpas",
+              "cittas": "77 mundane cittas (81 minus 4 diṭṭhigata-sampayutta)",
+              "cetasikas": "51 cetasikas (excluding diṭṭhi)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane phenomena dissociated from diṭṭhi."
+            },
+            {
+              "id": "paramasavippayutta-paramattha-duka-p2",
+              "pada": "Parāmāsavippayuttā kho pana dhammā aparāmaṭṭhāpi",
+              "paliTranslation": "States dissociated from misapprehension and not subject to misapprehension",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "4 lobhamūla diṭṭhigata sampayutta cittas, their associated 21 cetasikas (excluding māna, dosacatukka and vicikicchā) [Parāmāsasampayuttā dhammā and diṭṭhi]",
+            "fullDabbattha": "4 lobhamūla diṭṭhigata-sampayutta cittas, their associated 21 cetasikas, and diṭṭhi",
+            "explanation": "States conjoined with diṭṭhi as well as diṭṭhi itself are excluded by the qualification 'parāmāsavippayutta'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "mahantara-duka",
+      "number": 10,
+      "name": "Mahantara Duka",
+      "paliName": "Mahantaradukaṁ",
+      "description": "The cluster of 14 great intermediate dyads dealing with objects, mind, mental concomitants, origination, co-existence, succession, internal/external, clung-to, and derived matter.",
+      "dukas": [
+        {
+          "id": "sarammāna-duka",
+          "number": 1,
+          "name": "Sārammaṇa duka",
+          "paliName": "Sārammaṇadukaṁ",
+          "description": "Dyad of Having an object and Void of an object",
+          "padas": [
+            {
+              "id": "sarammāna-duka-p1",
+              "pada": "Sārammaṇā dhammā",
+              "paliTranslation": "States that have an object",
+              "type": "pada_1",
+              "dabbattha": "89 cittas, their associated 52 cetasikas",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "All mental states (nāma) necessarily cognize an object."
+            },
+            {
+              "id": "sarammāna-duka-p2",
+              "pada": "Anārammaṇā dhammā",
+              "paliTranslation": "States that have no object",
+              "type": "pada_2",
+              "dabbattha": "28 rūpas, Nibbāna",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Physical form and Nibbāna do not cognize objects."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "citta-duka",
+          "number": 2,
+          "name": "Citta duka",
+          "paliName": "Cittadukaṁ",
+          "description": "Dyad of Consciousness and Non-consciousness",
+          "padas": [
+            {
+              "id": "citta-duka-p1",
+              "pada": "Cittā dhammā",
+              "paliTranslation": "States that are consciousness",
+              "type": "pada_1",
+              "dabbattha": "89 cittas",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "All 89 consciousnesses."
+            },
+            {
+              "id": "citta-duka-p2",
+              "pada": "No cittā dhammā",
+              "paliTranslation": "States that are not consciousness",
+              "type": "pada_2",
+              "dabbattha": "52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Mental factors, material phenomena, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cetasika-duka",
+          "number": 3,
+          "name": "Cetasika duka",
+          "paliName": "Cetasikadukaṁ",
+          "description": "Dyad of Mental factors and Non-mental factors",
+          "padas": [
+            {
+              "id": "cetasika-duka-p1",
+              "pada": "Cetasikā dhammā",
+              "paliTranslation": "States that are mental factors",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 52 mental concomitants."
+            },
+            {
+              "id": "cetasika-duka-p2",
+              "pada": "Acetasikā dhammā",
+              "paliTranslation": "States that are not mental factors",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Consciousness, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cittasampayutta-duka",
+          "number": 4,
+          "name": "Cittasampayutt duka",
+          "paliName": "Cittasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with consciousness and Disjoined from consciousness",
+          "padas": [
+            {
+              "id": "cittasampayutta-duka-p1",
+              "pada": "Cittasampayuttā dhammā",
+              "paliTranslation": "States associated with consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Mental factors that arise and cease together with consciousness."
+            },
+            {
+              "id": "cittasampayutta-duka-p2",
+              "pada": "Cittavippayuttā dhammā",
+              "paliTranslation": "States dissociated from consciousness",
+              "type": "pada_2",
+              "dabbattha": "28 rūpas, Nibbāna",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Matter and Nibbāna, which never associate with mind."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "89 cittas",
+            "fullDabbattha": "89 cittas",
+            "explanation": "Citta cannot associate with itself, nor is it classified as cittavippayutta."
+          }
+        },
+        {
+          "id": "cittasamsattha-duka",
+          "number": 5,
+          "name": "Cittasaṃsaṭṭha duka",
+          "paliName": "Cittasaṃsaṭṭhadukaṁ",
+          "description": "Dyad of Blended with consciousness and Unblended with consciousness",
+          "padas": [
+            {
+              "id": "cittasamsattha-duka-p1",
+              "pada": "Cittasaṃsaṭṭhā dhammā",
+              "paliTranslation": "States blended with consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Mental factors intimately conjoined and fused with consciousness."
+            },
+            {
+              "id": "cittasamsattha-duka-p2",
+              "pada": "Cittavisaṃsaṭṭhā dhammā",
+              "paliTranslation": "States unblended with consciousness",
+              "type": "pada_2",
+              "dabbattha": "28 rūpas, Nibbāna",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Matter and Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "89 cittas",
+            "fullDabbattha": "89 cittas",
+            "explanation": "Citta is exempt because it does not blend with itself."
+          }
+        },
+        {
+          "id": "cittasamutthana-duka",
+          "number": 6,
+          "name": "Cittasamuṭṭhāna duka",
+          "paliName": "Cittasamuṭṭhānadukaṁ",
+          "description": "Dyad of Originated by consciousness and Not originated by consciousness",
+          "padas": [
+            {
+              "id": "cittasamutthana-duka-p1",
+              "pada": "Cittasamuṭṭhānā dhammā",
+              "paliTranslation": "States originated by consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas, 17 cittaja rūpas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "17 mind-produced rūpas",
+              "nibbana": "None",
+              "explanation": "Mental factors (originating through citta) and the 17 material qualities born of consciousness."
+            },
+            {
+              "id": "cittasamutthana-duka-p2",
+              "pada": "No cittasamuṭṭhānā dhammā",
+              "paliTranslation": "States not originated by consciousness",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 20 kammaja rūpas, 15 utuja rūpas, 14 āhāraja rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "20 kammaja rūpas, 15 utuja rūpas, 14 āhāraja rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Citta itself, matter generated by causes other than mind, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cittasahabhu-duka",
+          "number": 7,
+          "name": "Cittasahabhū duka",
+          "paliName": "Cittasahabhūdukaṁ",
+          "description": "Dyad of Co-existent with consciousness and Not co-existent with consciousness",
+          "padas": [
+            {
+              "id": "cittasahabhu-duka-p1",
+              "pada": "Cittasahabhuno dhammā",
+              "paliTranslation": "States co-existent with consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas, 2 viññatti rūpas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "2 viññatti rūpas (kāyaviññatti, vacīviññatti)",
+              "nibbana": "None",
+              "explanation": "52 cetasikas and 2 intimation rūpas that arise simultaneously and share lifetime with consciousness."
+            },
+            {
+              "id": "cittasahabhu-duka-p2",
+              "pada": "No cittasahabhuno dhammā",
+              "paliTranslation": "States not co-existent with consciousness",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 26 rūpas (excluding 2 viññatti rūpas), Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "26 rūpas (excluding 2 viññatti rūpas)",
+              "nibbana": "Nibbāna",
+              "explanation": "Citta itself, the other 26 material phenomena, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cittanuparivatti-duka",
+          "number": 8,
+          "name": "Cittānuparivattī duka",
+          "paliName": "Cittānuparivattīdukaṁ",
+          "description": "Dyad of Conforming to consciousness and Not conforming to consciousness",
+          "padas": [
+            {
+              "id": "cittanuparivatti-duka-p1",
+              "pada": "Cittānuparivattino dhammā",
+              "paliTranslation": "States conforming to consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas, 2 viññatti rūpas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "2 viññatti rūpas",
+              "nibbana": "None",
+              "explanation": "52 cetasikas and 2 viññatti rūpas that follow consciousness in arising, staying, and falling away."
+            },
+            {
+              "id": "cittanuparivatti-duka-p2",
+              "pada": "No cittānuparivattino dhammā",
+              "paliTranslation": "States not conforming to consciousness",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 26 rūpas (excluding 2 viññatti rūpas), Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "26 rūpas (excluding 2 viññatti rūpas)",
+              "nibbana": "Nibbāna",
+              "explanation": "Citta itself, remaining rūpas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cittasamsattha-samutthana-duka",
+          "number": 9,
+          "name": "Cittasaṃsaṭṭha-samuṭṭhāna duka",
+          "paliName": "Cittasaṃsaṭṭha-samuṭṭhānadukaṁ",
+          "description": "Dyad of Blended-and-originated-by-consciousness vs Not-so",
+          "padas": [
+            {
+              "id": "cittasamsattha-samutthana-duka-p1",
+              "pada": "Cittasaṃsaṭṭha-samuṭṭhānā dhammā",
+              "paliTranslation": "States blended with and originated by consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Only the 52 cetasikas are both originated by and intimately blended with consciousness (matter cannot be blended with citta)."
+            },
+            {
+              "id": "cittasamsattha-samutthana-duka-p2",
+              "pada": "No cittasaṃsaṭṭha-samuṭṭhānā dhammā",
+              "paliTranslation": "States not blended with and originated by consciousness",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Citta itself, all matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cittasamsattha-samutthana-sahabhu-duka",
+          "number": 10,
+          "name": "Cittasaṃsaṭṭha-samuṭṭhāna-sahabhū duka",
+          "paliName": "Cittasaṃsaṭṭha-samuṭṭhāna-sahabhūdukaṁ",
+          "description": "Dyad of Blended, originated, and co-existent with consciousness vs Not-so",
+          "padas": [
+            {
+              "id": "cittasamsattha-samutthana-sahabhu-duka-p1",
+              "pada": "Cittasaṃsaṭṭha-samuṭṭhānasahabhuno dhammā",
+              "paliTranslation": "States blended with, originated by, and co-existent with consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 52 cetasikas meet all three criteria."
+            },
+            {
+              "id": "cittasamsattha-samutthana-sahabhu-duka-p2",
+              "pada": "No cittasaṃsaṭṭha-samuṭṭhānasahabhuno dhammā",
+              "paliTranslation": "States not blended with, originated by, and co-existent with consciousness",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Citta itself, all matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "cittasamsattha-samutthananuparivatti-duka",
+          "number": 11,
+          "name": "Cittasaṃsaṭṭha-samuṭṭhānānuparivattī duka",
+          "paliName": "Cittasaṃsaṭṭha-samuṭṭhānānuparivattīdukaṁ",
+          "description": "Dyad of Blended, originated, and conforming to consciousness vs Not-so",
+          "padas": [
+            {
+              "id": "cittasamsattha-samutthananuparivatti-duka-p1",
+              "pada": "Cittasaṃsaṭṭha-samuṭṭhānānuparivattino dhammā",
+              "paliTranslation": "States blended with, originated by, and conforming to consciousness",
+              "type": "pada_1",
+              "dabbattha": "52 cetasikas",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 52 cetasikas meet all three conditions."
+            },
+            {
+              "id": "cittasamsattha-samutthananuparivatti-duka-p2",
+              "pada": "No cittasaṃsaṭṭha-samuṭṭhānānuparivattino dhammā",
+              "paliTranslation": "States not blended with, originated by, and conforming to consciousness",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Citta, all 28 rūpas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "ajjhatta-duka",
+          "number": 12,
+          "name": "Ajjhatta duka",
+          "paliName": "Ajjhattikadukaṁ",
+          "description": "Dyad of Internal and External",
+          "padas": [
+            {
+              "id": "ajjhatta-duka-p1",
+              "pada": "Ajjhattikā dhammā",
+              "paliTranslation": "Internal states",
+              "type": "pada_1",
+              "dabbattha": "89 cittas, 5 pasāda rūpas",
+              "cittas": "89 cittas",
+              "cetasikas": "0",
+              "rupa": "5 pasāda rūpas (eye, ear, nose, tongue, body sensitivity)",
+              "nibbana": "None",
+              "explanation": "The 6 internal bases (āyatana): 89 cittas (manāyatana) and 5 sensitive matters."
+            },
+            {
+              "id": "ajjhatta-duka-p2",
+              "pada": "Bāhirā dhammā",
+              "paliTranslation": "External states",
+              "type": "pada_2",
+              "dabbattha": "52 cetasikas, 23 rūpas (excluding 5 pasāda rūpas)",
+              "cittas": "0",
+              "cetasikas": "52 cetasikas",
+              "rupa": "23 rūpas (excluding 5 pasāda rūpas)",
+              "nibbana": "Nibbāna",
+              "explanation": "All remaining mental concomitants, 23 non-sensitive matters, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "upada-duka",
+          "number": 13,
+          "name": "Ūpadā duka",
+          "paliName": "Upādādukaṁ",
+          "description": "Dyad of Derived matter and Non-derived matter",
+          "padas": [
+            {
+              "id": "upada-duka-p1",
+              "pada": "Upādā dhammā",
+              "paliTranslation": "States that are derived (secondary matter)",
+              "type": "pada_1",
+              "dabbattha": "24 upādāya rūpas",
+              "cittas": "0",
+              "cetasikas": "0",
+              "rupa": "24 upādāya rūpas",
+              "nibbana": "None",
+              "explanation": "The 24 material qualities dependent on the 4 great essentials."
+            },
+            {
+              "id": "upada-duka-p2",
+              "pada": "No upādā dhammā",
+              "paliTranslation": "States that are not derived",
+              "type": "pada_2",
+              "dabbattha": "89 Cittas, 52 cetasikas, 4 mahābhūta rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "4 mahābhūtas (earth, water, fire, wind)",
+              "nibbana": "Nibbāna",
+              "explanation": "The 4 primary elements, all mental states, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "upadinna-duka",
+          "number": 14,
+          "name": "Upādiṇṇa duka",
+          "paliName": "Upādiṇṇadukaṁ",
+          "description": "Dyad of Clung-to (kamma-born) and Not-clung-to",
+          "padas": [
+            {
+              "id": "upadinna-duka-p1",
+              "pada": "Upādiṇṇā dhammā",
+              "paliTranslation": "States that are clung-to (kamma-born)",
+              "type": "pada_1",
+              "dabbattha": "32 lokiya vipāka cittas, their associated 35 cetasikas, 20 kammaja rūpas",
+              "cittas": "32 lokiya vipāka cittas",
+              "cetasikas": "35 cetasikas",
+              "rupa": "20 kamma-born rūpas",
+              "nibbana": "None",
+              "explanation": "Results produced directly by past kamma grasped by craving and view."
+            },
+            {
+              "id": "upadinna-duka-p2",
+              "pada": "Anupādiṇṇā dhammā",
+              "paliTranslation": "States not clung-to (not kamma-born)",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, 21 kusala cittas, 4 lokuttara phala cittas, 20 kiriyā cittas, their associated 52 cetasikas, 17 cittaja rūpas, 15 utuja rūpas, 14 āhāraja rūpas, Nibbāna",
+              "cittas": "57 cittas (12 akusala + 21 kusala + 4 phala + 20 kiriya)",
+              "cetasikas": "52 cetasikas",
+              "rupa": "Cittaja, utuja, and āhāraja rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Active kamma, functional cittas, phala cittas, non-kammaja matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        }
+      ]
+    },
+    {
+      "id": "upadana-gocchaka",
+      "number": 11,
+      "name": "Upādāna Gocchaka",
+      "paliName": "Upādānagocchakaṁ",
+      "description": "The cluster of 6 dyads dealing with the 4 clingings (kāmūpādāna, diṭṭhūpādāna, sīlabbatūpādāna, attavādūpādāna) comprising lobha and diṭṭhi.",
+      "dukas": [
+        {
+          "id": "upadana-duka",
+          "number": 1,
+          "name": "Upādāna duka",
+          "paliName": "Upādānadukaṁ",
+          "description": "Dyad of Clingings and Non-clingings",
+          "padas": [
+            {
+              "id": "upadana-duka-p1",
+              "pada": "Upādānā dhammā",
+              "paliTranslation": "States that are clingings",
+              "type": "pada_1",
+              "dabbattha": "Lobha, diṭṭhi",
+              "cittas": "0",
+              "cetasikas": "2 cetasikas (lobha, diṭṭhi)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 4 clingings reduce to lobha (sensual clinging) and diṭṭhi (the other 3 clingings)."
+            },
+            {
+              "id": "upadana-duka-p2",
+              "pada": "No upadānā dhammā",
+              "paliTranslation": "States that are not clingings",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 50 cetasikas (excluding the 2 upādānas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "50 cetasikas (excluding lobha and diṭṭhi)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other dhammas."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "upadaniya-duka",
+          "number": 2,
+          "name": "Upādāniya duka",
+          "paliName": "Upādāniyadukaṁ",
+          "description": "Dyad of Clinging-prone and Clinging-free",
+          "padas": [
+            {
+              "id": "upadaniya-duka-p1",
+              "pada": "Upādāniyā dhammā",
+              "paliTranslation": "States favourable to clinging",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane dhammas that can become objects of clinging."
+            },
+            {
+              "id": "upadaniya-duka-p2",
+              "pada": "Anupādāniyā dhammā",
+              "paliTranslation": "States not favourable to clinging",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "upadanasampayutta-duka",
+          "number": 3,
+          "name": "Upādānasampayutta duka",
+          "paliName": "Upādānasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with clinging and Disjoined from clinging",
+          "padas": [
+            {
+              "id": "upadanasampayutta-duka-p1",
+              "pada": "Upādānasampayuttā dhammā",
+              "paliTranslation": "States conjoined with clinging",
+              "type": "pada_1",
+              "dabbattha": "8 lobhamūla cittas, their associated 22 cetasikas (excluding dosādi catukka, vicikicchā, and lobha in the 4 lobhamūla diṭṭhigata vippayutta cittas)",
+              "cittas": "8 lobhamūla cittas",
+              "cetasikas": "22 cetasikas (excluding dosacattuka, vicikicchā, and solitary lobha in diṭṭhigata-vippayutta cittas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States associated with clinging. In the 4 diṭṭhigata-vippayutta cittas, lobha is solitary as an upādāna and cannot associate with itself."
+            },
+            {
+              "id": "upadanasampayutta-duka-p2",
+              "pada": "Upādānavippayuttā dhammā",
+              "paliTranslation": "States dissociated from clinging",
+              "type": "pada_2",
+              "dabbattha": "2 dosamūla cittas, 2 mohamūla cittas, 21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 49 cetasikas (excluding lobha, diṭṭhi and māna), lobha in the 4 lobhamūla diṭṭhigata vippayutta cittas, 28 rūpas, Nibbāna",
+              "cittas": "81 cittas",
+              "cetasikas": "49 cetasikas + lobha in 4 diṭṭhigata-vippayutta cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states dissociated from clinging."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "upadana-upadaniya-duka",
+          "number": 4,
+          "name": "Upādāna-upādāniya duka",
+          "paliName": "Upādāna-upādāniyadukaṁ",
+          "description": "Dyad of Clinging-and-favourable vs Favourable-non-clinging",
+          "padas": [
+            {
+              "id": "upadana-upadaniya-duka-p1",
+              "pada": "Upādānā ceva dhammā upādāniyā ca",
+              "paliTranslation": "States that are clingings and favourable to clinging",
+              "type": "pada_1",
+              "dabbattha": "2 upādānas (lobha and diṭṭhi)",
+              "cittas": "0",
+              "cetasikas": "2 upādānas (lobha and diṭṭhi)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 2 clinging cetasikas."
+            },
+            {
+              "id": "upadana-upadaniya-duka-p2",
+              "pada": "Upādāniyā ceva dhammā no ca upādānā",
+              "paliTranslation": "States favourable to clinging but not clingings",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 50 cetasikas (excluding the 2 upādānas), 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "50 cetasikas (excluding lobha and diṭṭhi)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane cittas, remaining cetasikas, and matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Anupādāniyā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states."
+          }
+        },
+        {
+          "id": "upadana-upadanasampayutta-duka",
+          "number": 5,
+          "name": "Upādāna-upādānasampayutta duka",
+          "paliName": "Upādāna-upādānasampayuttadukaṁ",
+          "description": "Dyad of Clinging-and-associated vs Associated-non-clinging",
+          "padas": [
+            {
+              "id": "upadana-upadanasampayutta-duka-p1",
+              "pada": "Upādānā ceva dhammā upādānasampayuttā ca",
+              "paliTranslation": "States that are clingings and associated with clinging",
+              "type": "pada_1",
+              "dabbattha": "lobha and diṭṭhi in the 4 lobhamūla diṭṭhigata sampayutta cittas",
+              "cittas": "0",
+              "cetasikas": "lobha and diṭṭhi in 4 diṭṭhigata-sampayutta cittas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Lobha and diṭṭhi mutually associate with one another in diṭṭhigata-sampayutta consciousness."
+            },
+            {
+              "id": "upadana-upadanasampayutta-duka-p2",
+              "pada": "Upādānasampayuttā ceva dhammā no ca upādānā",
+              "paliTranslation": "States associated with clinging but not clingings",
+              "type": "pada_2",
+              "dabbattha": "8 lobhamūla cittas, their associated 20 cetasikas (excluding lobha, diṭṭhi, dosādi catukka and vicikicchā)",
+              "cittas": "8 lobhamūla cittas",
+              "cetasikas": "20 cetasikas (excluding lobha, diṭṭhi, dosacatukka, vicikicchā)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Consciousness and non-clinging cetasikas associated with clinging."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Upādānavippayuttā dhammā",
+            "fullDabbattha": "2 dosamūla cittas, 2 mohamūla cittas, 21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 49 cetasikas (excluding lobha, diṭṭhi and māna), lobha in the 4 lobhamūla diṭṭhigata vippayutta cittas, 28 rūpas, Nibbāna",
+            "explanation": "States dissociated from clinging."
+          }
+        },
+        {
+          "id": "upadanavippayutta-upadaniya-duka",
+          "number": 6,
+          "name": "Upādānavippayutta-upādāniya duka",
+          "paliName": "Upādānavippayutta-upādāniyadukaṁ",
+          "description": "Dyad of Dissociated-clinging-prone vs Dissociated-clinging-free",
+          "padas": [
+            {
+              "id": "upadanavippayutta-upadaniya-duka-p1",
+              "pada": "Upādānavippayuttā kho pana dhammā upādāniyāpi",
+              "paliTranslation": "States dissociated from clinging but favourable to clinging",
+              "type": "pada_1",
+              "dabbattha": "2 dosamūla cittas, 2 mohamūla cittas, 17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriyā cittas, their associated 49 cetasikas (excluding lobha, diṭṭhi and māna), lobha in the 4 lobhamūla diṭṭhigata vippayutta cittas, 28 rūpas",
+              "cittas": "73 mundane cittas",
+              "cetasikas": "49 cetasikas + solitary lobha in diṭṭhigata-vippayutta cittas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane states dissociated from clinging."
+            },
+            {
+              "id": "upadanavippayutta-upadaniya-duka-p2",
+              "pada": "Upādānavippayuttā kho pana dhammā anupādāniyāpi",
+              "paliTranslation": "States dissociated from clinging and not favourable to clinging",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Upādānasampayuttā dhammā",
+            "fullDabbattha": "8 lobhamūla cittas, their associated 22 cetasikas (excluding dosādi catukka, vicikicchā, and lobha in the 4 lobhamūla diṭṭhigata vippayutta cittas)",
+            "explanation": "Clinging-conjoined states."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kilesa-gocchaka",
+      "number": 12,
+      "name": "Kilesa Gocchaka",
+      "paliName": "Kilesagocchakaṁ",
+      "description": "The cluster of 8 dyads dealing with the 10 defilements (lobha, dosa, moha, māna, diṭṭhi, vicikicchā, thīna, uddhacca, ahirika, anottappa) and their associations and corruptions.",
+      "dukas": [
+        {
+          "id": "kilesa-duka",
+          "number": 1,
+          "name": "Kilesa duka",
+          "paliName": "Kilesadukaṁ",
+          "description": "Dyad of Defilements and Non-defilements",
+          "padas": [
+            {
+              "id": "kilesa-duka-p1",
+              "pada": "Kilesā dhammā",
+              "paliTranslation": "States that are defilements",
+              "type": "pada_1",
+              "dabbattha": "Lobha, dosa, moha, māna, diṭṭhi, vicikicchā, thīna, uddhacca, ahirika, anottappa",
+              "cittas": "0",
+              "cetasikas": "10 kilesas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 10 mental factors that torment and burn the mind."
+            },
+            {
+              "id": "kilesa-duka-p2",
+              "pada": "No kilesā dhammā",
+              "paliTranslation": "States that are not defilements",
+              "type": "pada_2",
+              "dabbattha": "89 cittas, their associated 42 cetasikas (excluding the 10 kilesas), 28 rūpas, Nibbāna",
+              "cittas": "89 cittas",
+              "cetasikas": "42 cetasikas (52 minus 10 kilesas)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states besides the 10 defilements."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "samkilesika-duka",
+          "number": 2,
+          "name": "Saṃkilesika duka",
+          "paliName": "Saṃkilesikadukaṁ",
+          "description": "Dyad of Corruptible and Incorruptible",
+          "padas": [
+            {
+              "id": "samkilesika-duka-p1",
+              "pada": "Saṃkilesikā dhammā",
+              "paliTranslation": "States subject to defilements",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane dhammas that can become objects of defilement."
+            },
+            {
+              "id": "samkilesika-duka-p2",
+              "pada": "Asaṃkilesikā dhammā",
+              "paliTranslation": "States not subject to defilements",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "samkilittha-duka",
+          "number": 3,
+          "name": "Saṃkiliṭṭh duka",
+          "paliName": "Saṃkiliṭṭhadukaṁ",
+          "description": "Dyad of Defiled and Undefiled",
+          "padas": [
+            {
+              "id": "samkilittha-duka-p1",
+              "pada": "Saṃkiliṭṭhā dhammā",
+              "paliTranslation": "States that are defiled",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "All 12 unwholesome consciousnesses and their 27 unwholesome cetasikas."
+            },
+            {
+              "id": "samkilittha-duka-p2",
+              "pada": "Asaṃkiliṭṭhā dhammā",
+              "paliTranslation": "States that are undefiled",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "38 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Wholesome, resultant, functional states, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "kilesasampayutta-duka",
+          "number": 4,
+          "name": "Kilesasampayutta duka",
+          "paliName": "Kilesasampayuttadukaṁ",
+          "description": "Dyad of Conjoined with defilements and Disjoined from defilements",
+          "padas": [
+            {
+              "id": "kilesasampayutta-duka-p1",
+              "pada": "Kilesasampayuttā dhammā",
+              "paliTranslation": "States conjoined with defilements",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "All 12 unwholesome cittas and their 27 associated cetasikas (moha, ahirika, anottappa, uddhacca are present throughout all akusala)."
+            },
+            {
+              "id": "kilesasampayutta-duka-p2",
+              "pada": "Kilesavippayuttā dhammā",
+              "paliTranslation": "States dissociated from defilements",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "38 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All remaining states dissociated from defilements."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "kilesa-samkilesika-duka",
+          "number": 5,
+          "name": "Kilesa-saṃkilesika duka",
+          "paliName": "Kilesa-saṃkilesikadukaṁ",
+          "description": "Dyad of Defilement-and-corruptible vs Corruptible-non-defilement",
+          "padas": [
+            {
+              "id": "kilesa-samkilesika-duka-p1",
+              "pada": "Kilesā ceva dhammā saṃkilesikā ca",
+              "paliTranslation": "States that are defilements and subject to defilements",
+              "type": "pada_1",
+              "dabbattha": "10 kilesas (lobha, dosa, moha, māna, diṭṭhi, vicikicchā, thīna, uddhacca, ahirika, anottappa)",
+              "cittas": "0",
+              "cetasikas": "10 kilesas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 10 defilement cetasikas themselves."
+            },
+            {
+              "id": "kilesa-samkilesika-duka-p2",
+              "pada": "Saṃkilesikā ceva dhammā no ca kilesā",
+              "paliTranslation": "States subject to defilements but not defilements",
+              "type": "pada_2",
+              "dabbattha": "81 lokiya cittas, their associated 42 cetasikas (excluding the 10 kilesas), 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "42 cetasikas (excluding 10 kilesas)",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane cittas, remaining cetasikas, and matter."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Asaṃkilesikā dhammā",
+            "fullDabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+            "explanation": "Supramundane states."
+          }
+        },
+        {
+          "id": "kilesa-samkilittha-duka",
+          "number": 6,
+          "name": "Kilesa-saṃkiliṭṭha duka",
+          "paliName": "Kilesa-saṃkiliṭṭhadukaṁ",
+          "description": "Dyad of Defilement-and-defiled vs Defiled-non-defilement",
+          "padas": [
+            {
+              "id": "kilesa-samkilittha-duka-p1",
+              "pada": "Kilesā ceva dhammā saṃkiliṭṭhā ca",
+              "paliTranslation": "States that are defilements and defiled",
+              "type": "pada_1",
+              "dabbattha": "10 kilesas (lobha, dosa, moha, māna, diṭṭhi, vicikicchā, thīna, uddhacca, ahirika, anottappa)",
+              "cittas": "0",
+              "cetasikas": "10 kilesas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 10 defilement factors themselves."
+            },
+            {
+              "id": "kilesa-samkilittha-duka-p2",
+              "pada": "Saṃkiliṭṭhā ceva dhammā no ca kilesā",
+              "paliTranslation": "States that are defiled but not defilements",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 17 cetasikas (excluding the 10 kilesas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "17 cetasikas (27 minus 10 kilesas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 12 akusala cittas and non-kilesa unwholesome cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Asaṃkiliṭṭhā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas, Nibbāna",
+            "explanation": "Undefiled states."
+          }
+        },
+        {
+          "id": "kilesa-kilesasampayutta-duka",
+          "number": 7,
+          "name": "Kilesa-kilesasampayutta duka",
+          "paliName": "Kilesa-kilesasampayuttadukaṁ",
+          "description": "Dyad of Defilement-and-associated vs Associated-non-defilement",
+          "padas": [
+            {
+              "id": "kilesa-kilesasampayutta-duka-p1",
+              "pada": "Kilesā ceva dhammā kilesasampayuttā ca",
+              "paliTranslation": "States that are defilements and associated with defilements",
+              "type": "pada_1",
+              "dabbattha": "10 kilesas (lobha, dosa, moha, māna, diṭṭhi, vicikicchā, thīna, uddhacca, ahirika, anottappa)",
+              "cittas": "0",
+              "cetasikas": "10 kilesas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Each defilement co-arises with at least 3 other universal unwholesome defilements."
+            },
+            {
+              "id": "kilesa-kilesasampayutta-duka-p2",
+              "pada": "Kilesasampayuttā ceva dhammā no ca kilesā",
+              "paliTranslation": "States associated with defilements but not defilements",
+              "type": "pada_2",
+              "dabbattha": "12 akusala cittas, their associated 17 cetasikas (excluding the 10 kilesas)",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "17 cetasikas (excluding 10 kilesas)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The 12 akusala cittas and non-defilement cetasikas."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Kilesavippayuttā dhammā",
+            "fullDabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas, Nibbāna",
+            "explanation": "States dissociated from defilements."
+          }
+        },
+        {
+          "id": "kilesavippayutta-samkilesika-duka",
+          "number": 8,
+          "name": "Kilesavippayutta-saṃkilesika duka",
+          "paliName": "Kilesavippayutta-saṃkilesikadukaṁ",
+          "description": "Dyad of Dissociated-corruptible vs Dissociated-incorruptible",
+          "padas": [
+            {
+              "id": "kilesavippayutta-samkilesika-duka-p1",
+              "pada": "Kilesavippayuttā kho pana dhammā saṃkilesikāpi",
+              "paliTranslation": "States dissociated from defilements but subject to defilements",
+              "type": "pada_1",
+              "dabbattha": "17 lokiya kusala cittas, 32 lokiya vipāka cittas, 20 kiriyā cittas, their associated 38 cetasikas, 28 rūpas",
+              "cittas": "69 mundane cittas",
+              "cetasikas": "38 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "Mundane wholesome, resultant, and functional states and matter."
+            },
+            {
+              "id": "kilesavippayutta-samkilesika-duka-p2",
+              "pada": "Kilesavippayuttā kho pana dhammā asaṃkilesikāpi",
+              "paliTranslation": "States dissociated from defilements and not subject to defilements",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas, Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane consciousness, cetasikas, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": {
+            "pada": "Dukamuttakā dhammā",
+            "paliTranslation": "States exempt from both padas",
+            "dabbattha": "Kilesasampayuttā dhammā",
+            "fullDabbattha": "12 akusala cittas, their associated 27 cetasikas",
+            "explanation": "States conjoined with defilements."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pitthi-duka",
+      "number": 13,
+      "name": "Piṭṭhi Duka",
+      "paliName": "Piṭṭhidukaṁ",
+      "description": "The concluding cluster of 18 supplementary dyads (end dyads) classifying phenomena by eradication through seeing/developing, thought, rapture, feeling, planes of existence, leading out, and conflict.",
+      "dukas": [
+        {
+          "id": "dassanena-pahatabba-duka",
+          "number": 1,
+          "name": "Dassanena pahātabba duka",
+          "paliName": "Dassanenapahātabbadukaṁ",
+          "description": "Dyad of Eradicated by Seeing (Sotāpatti-magga) vs Not eradicated by Seeing",
+          "padas": [
+            {
+              "id": "dassanena-pahatabba-duka-p1",
+              "pada": "Dassanena pahātabbā dhammā",
+              "paliTranslation": "States eradicated by seeing",
+              "type": "pada_1",
+              "dabbattha": "4 diṭṭhigata sampayutta cittas, vicikicchā sampayutta citta, their associated 22 cetasikas (excluding māna, dosa, issā, macchariya, kukkucca and the moha in vicikicchā sampayutta citta) that are eradicated by the sotāpatti magga; 4 diṭṭhigata vippayutta cittas, 2 dosamūla cittas that can lead to 4 apāya and their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the sotāpatti magga",
+              "cittas": "4 diṭṭhigata-sampayutta cittas, 1 vicikicchā-sampayutta citta, and apāya-leading portions of 4 diṭṭhigata-vippayutta and 2 dosamūla cittas",
+              "cetasikas": "Associated unwholesome cetasikas eradicated by stream-entry",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "All unwholesome consciousness and cetasikas entirely uprooted by the first supramundane path (sotāpatti-magga)."
+            },
+            {
+              "id": "dassanena-pahatabba-duka-p2",
+              "pada": "Na dassanena pahātabbā dhammā",
+              "paliTranslation": "States not eradicated by seeing",
+              "type": "pada_2",
+              "dabbattha": "4 diṭṭhigata vippayutta cittas and 2 dosamūla cittas that do not lead to 4 apāya, uddhacca sampayutta citta, their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), 28 rūpa, Nibbāna",
+              "cittas": "Non-apāya unwholesome cittas, uddhacca-sampayutta citta, plus wholesome, resultant, functional cittas",
+              "cetasikas": "Associated cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "States eradicated by the higher three paths, along with kusala, vipāka, kiriya, rūpa, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "bhavanaya-pahatabba-duka",
+          "number": 2,
+          "name": "Bhāvanāya pahātabba duka",
+          "paliName": "Bhāvanāyapahātabbadukaṁ",
+          "description": "Dyad of Eradicated by Cultivation (higher 3 paths) vs Not eradicated by Cultivation",
+          "padas": [
+            {
+              "id": "bhavanaya-pahatabba-duka-p1",
+              "pada": "Bhāvanāya pahātabbā dhammā",
+              "paliTranslation": "States eradicated by cultivation",
+              "type": "pada_1",
+              "dabbattha": "4 diṭṭhigata vippayutta cittas connected with gross kāmarāga (that does not lead to 4 apāya), 2 dosamūla cittas connected with gross paṭigha (that does not lead to 4 apāya), their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the sakadāgāmī magga; 4 diṭṭhigata vippayutta cittas connected with subtle kāmarāga, 2 dosamūla cittas connected with subtle paṭigha, their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the anāgāmī magga; 4 diṭṭhigata vippayutta cittas connected with rūpa rāga and arūpa rāga, uddhacca sampayutta citta, their associated 21 cetasikas (excluding diṭṭhi, dosa, issā, macchariya, kukkucca and vicikicchā), which are eradicated by the arahatta magga",
+              "cittas": "Non-apāya diṭṭhigata-vippayutta cittas, dosamūla cittas, and uddhacca-sampayutta citta",
+              "cetasikas": "Associated cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "The remaining unwholesome states progressively abandoned by Sakadāgāmī, Anāgāmī, and Arahatta paths."
+            },
+            {
+              "id": "bhavanaya-pahatabba-duka-p2",
+              "pada": "Na bhāvanāya pahātabbā dhammā",
+              "paliTranslation": "States not eradicated by cultivation",
+              "type": "pada_2",
+              "dabbattha": "4 diṭṭhigata sampayutta cittas, vicikicchā sampayutta citta, their associated 22 cetasikas (excluding māna, dosa, issā, macchariya, kukkucca and the moha in vicikicchā sampayutta citta) that are eradicated by the sotāpatti magga; 4 diṭṭhigata vippayutta cittas, 2 dosamūla cittas, that can lead to 4 apāya and their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the sotāpatti magga; 28 rūpa, Nibbāna",
+              "cittas": "States eradicated by Sotāpatti-magga, wholesome, resultant, functional cittas",
+              "cetasikas": "Associated cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Defilements abandoned by seeing, non-defiled conditioned states, and unconditioned Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "dassanena-pahatabbahetuka-duka",
+          "number": 3,
+          "name": "Dassanena pahātabbahetuka duka",
+          "paliName": "Dassanenapahātabbahetukadukaṁ",
+          "description": "Dyad of Having roots eradicated by Seeing vs Not having roots eradicated by Seeing",
+          "padas": [
+            {
+              "id": "dassanena-pahatabbahetuka-duka-p1",
+              "pada": "Dassanena pahātabbahetukā dhammā",
+              "paliTranslation": "States having roots eradicated by seeing",
+              "type": "pada_1",
+              "dabbattha": "4 diṭṭhigata sampayutta cittas, vicikicchā sampayutta citta, their associated 22 cetasikas (excluding māna, dosa, issā, macchariya, kukkucca and the moha in vicikicchā sampayutta citta) that are eradicated by the sotāpatti magga; 4 diṭṭhigata vippayutta cittas, 2 dosamūla cittas, that can lead to 4 apāya and their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the sotāpatti magga",
+              "cittas": "States eradicated by sotāpatti-magga accompanied by roots",
+              "cetasikas": "Associated cetasikas (excluding solitary moha in vicikicchā citta)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States whose companion roots are uprooted by the first path."
+            },
+            {
+              "id": "dassanena-pahatabbahetuka-duka-p2",
+              "pada": "Na dassanena pahātabbahetukā dhammā",
+              "paliTranslation": "States not having roots eradicated by seeing",
+              "type": "pada_2",
+              "dabbattha": "4 diṭṭhigata vippayutta cittas and 2 dosamūla cittas that do not lead to 4 apāya, uddhacca sampayutta citta, their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), moha in vicikicchā sampayutta citta, 28 rūpa, Nibbāna",
+              "cittas": "Remaining cittas",
+              "cetasikas": "Associated cetasikas + solitary moha in vicikicchā citta",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Solitary moha in vicikicchā-sampayutta citta has no companion root eradicated by seeing, and all other non-sotāpatti-eradicated states."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "bhavanaya-pahatabbahetuka-duka",
+          "number": 4,
+          "name": "Bhāvanāya pahātabbahetuka duka",
+          "paliName": "Bhāvanāyapahātabbahetukadukaṁ",
+          "description": "Dyad of Having roots eradicated by Cultivation vs Not having roots eradicated by Cultivation",
+          "padas": [
+            {
+              "id": "bhavanaya-pahatabbahetuka-duka-p1",
+              "pada": "Bhāvanāya pahātabbahetukā dhammā",
+              "paliTranslation": "States having roots eradicated by cultivation",
+              "type": "pada_1",
+              "dabbattha": "4 diṭṭhigata vippayutta cittas connected with gross kāmarāga (that does not lead to 4 apāya), 2 dosamūla cittas connected with gross paṭigha (that does not lead to 4 apāya), their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the sakadāgāmī magga; 4 diṭṭhigata vippayutta cittas connected with subtle kāmarāga, 2 dosamūla cittas connected with subtle paṭigha, their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the anāgāmī magga; 4 diṭṭhigata vippayutta cittas connected with rūpa raga and arūpa rāga, uddhacca sampayutta citta, their associated 21 cetasikas (excluding diṭṭhi, dosa, issā, macchariya, kukkucca, vicikicchā and the moha in uddhacca sampayutta citta), which are eradicated by the arahatta magga",
+              "cittas": "Higher-path eradicated unwholesome cittas",
+              "cetasikas": "Associated cetasikas (excluding solitary moha in uddhacca citta)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States possessing companion roots eradicated by the three higher paths."
+            },
+            {
+              "id": "bhavanaya-pahatabbahetuka-duka-p2",
+              "pada": "Na bhāvanāya pahātabbahetukā dhammā",
+              "paliTranslation": "States not having roots eradicated by cultivation",
+              "type": "pada_2",
+              "dabbattha": "4 diṭṭhigata sampayutta cittas, vicikicchā sampayutta citta, their associated 22 cetasikas (excluding māna, dosa, issā, macchariya, kukkucca and the moha in vicikicchā sampayutta citta) that are eradicated by the sotāpatti magga; 4 diṭṭhigata vippayutta cittas, 2 dosamūla cittas, that can lead to 4 apāya and their associated 25 cetasikas (excluding diṭṭhi and vicikicchā), which are eradicated by the sotāpatti magga; Moha in uddhacca sampayutta citta, 28 rūpa, Nibbāna",
+              "cittas": "Sotāpatti-eradicated states, wholesome, resultant, and functional states",
+              "cetasikas": "Associated cetasikas + solitary moha in uddhaccasampayutta citta",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Includes solitary moha in uddhacca citta (which has no companion root eradicated by bhāvanā), sotāpatti-eradicated dhammas, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "savitakka-duka",
+          "number": 5,
+          "name": "Savitakka duka",
+          "paliName": "Savitakkadukaṁ",
+          "description": "Dyad of Accompanied by initial application vs Unaccompanied by initial application",
+          "padas": [
+            {
+              "id": "savitakka-duka-p1",
+              "pada": "Savitakkā dhammā",
+              "paliTranslation": "States accompanied by initial application",
+              "type": "pada_1",
+              "dabbattha": "55 savitakka cittas, their associated 51 cetasikas (excluding vitakka)",
+              "cittas": "55 savitakka cittas (44 kāmāvacara excluding 10 dvi-pañcaviññāṇa + 11 first-jhāna cittas)",
+              "cetasikas": "51 cetasikas (excluding vitakka)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Cittas and associated cetasikas co-arising with vitakka. Vitakka itself is excluded because a factor does not accompany itself."
+            },
+            {
+              "id": "savitakka-duka-p2",
+              "pada": "Avitakkā dhammā",
+              "paliTranslation": "States unaccompanied by initial application",
+              "type": "pada_2",
+              "dabbattha": "66 avitakka cittas, their associated 37 cetasikas (excluding vitakka), 55 vitakka in the 55 savitakka cittas, 28 rūpas, Nibbāna",
+              "cittas": "66 avitakka cittas (10 dvi-pañcaviññāṇa + 56 higher jhāna cittas)",
+              "cetasikas": "37 cetasikas + 55 vitakka cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Higher jhāna cittas, the 10 sense consciousnesses, vitakka itself, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "savicara-duka",
+          "number": 6,
+          "name": "Savicāra duka",
+          "paliName": "Savicāradukaṁ",
+          "description": "Dyad of Accompanied by sustained application vs Unaccompanied by sustained application",
+          "padas": [
+            {
+              "id": "savicara-duka-p1",
+              "pada": "Savicārā dhammā",
+              "paliTranslation": "States accompanied by sustained application",
+              "type": "pada_1",
+              "dabbattha": "66 savicāra cittas, their associated 51 cetasikas (excluding vicāra)",
+              "cittas": "66 savicāra cittas (55 first jhāna & kāmāvacara + 11 second jhāna 5-fold)",
+              "cetasikas": "51 cetasikas (excluding vicāra)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Consciousness and cetasikas co-occurring with vicāra."
+            },
+            {
+              "id": "savicara-duka-p2",
+              "pada": "Avicārā dhammā",
+              "paliTranslation": "States unaccompanied by sustained application",
+              "type": "pada_2",
+              "dabbattha": "55 avicāra cittas, their associated 36 cetasikas (excluding vitakka and vicāra), 66 vicāra in the 66 savicāra cittas, 28 rūpas, Nibbāna",
+              "cittas": "55 avicāra cittas",
+              "cetasikas": "36 cetasikas + 66 vicāra cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Consciousness devoid of vicāra, vicāra itself, physical form, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sappitika-duka",
+          "number": 7,
+          "name": "Sappītika duka",
+          "paliName": "Sappītikadukaṁ",
+          "description": "Dyad of Accompanied by rapture vs Unaccompanied by rapture",
+          "padas": [
+            {
+              "id": "sappitika-duka-p1",
+              "pada": "Sappītikā dhammā",
+              "paliTranslation": "States accompanied by rapture",
+              "type": "pada_1",
+              "dabbattha": "51 sappītika cittas, their associated 46 cetasikas (excluding pīti, dosa, issā, macchariya, kukkucca and vicikicchā)",
+              "cittas": "51 sappītika cittas (18 somanassa kāma + 11 1st jhāna + 11 2nd jhāna + 11 3rd jhāna)",
+              "cetasikas": "46 cetasikas (excluding pīti itself and averse/doubt factors)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States co-arising with pīti."
+            },
+            {
+              "id": "sappitika-duka-p2",
+              "pada": "Appītikā dhammā",
+              "paliTranslation": "States unaccompanied by rapture",
+              "type": "pada_2",
+              "dabbattha": "70 appītika cittas, their associated 51 cetasikas (excluding pīti), 51 pīti in the 51 sappītika cittas, 28 rūpas, Nibbāna",
+              "cittas": "70 appītika cittas (upekkhā, dosa, and higher jhāna cittas)",
+              "cetasikas": "51 cetasikas + 51 pīti cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Cittas lacking pīti, pīti itself, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "pitisahagata-duka",
+          "number": 8,
+          "name": "Pītisahagata duka",
+          "paliName": "Pītisahagatadukaṁ",
+          "description": "Dyad of Rapture-accompanied vs Not rapture-accompanied",
+          "padas": [
+            {
+              "id": "pitisahagata-duka-p1",
+              "pada": "Pītisahagatā dhammā",
+              "paliTranslation": "States accompanied by rapture",
+              "type": "pada_1",
+              "dabbattha": "51 pītisahagata cittas, their associated 46 cetasikas (excluding pīti, dosa, issā, macchariya, kukkucca and vicikicchā)",
+              "cittas": "51 cittas",
+              "cetasikas": "46 cetasikas (excluding pīti)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Equivalent in ultimate reality to Sappītikā dhammā."
+            },
+            {
+              "id": "pitisahagata-duka-p2",
+              "pada": "Na pītisahagatā dhammā",
+              "paliTranslation": "States not accompanied by rapture",
+              "type": "pada_2",
+              "dabbattha": "70 cittas without pīti, their associated 51 cetasikas (excluding pīti), 51 pīti in the 51 pītisahagata cittas, 28 rūpas, Nibbāna",
+              "cittas": "70 cittas",
+              "cetasikas": "51 cetasikas + 51 pīti cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Equivalent in ultimate reality to Appītikā dhammā."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sukhasahagata-duka",
+          "number": 9,
+          "name": "Sukha sahagata duka",
+          "paliName": "Sukhasahagatadukaṁ",
+          "description": "Dyad of Pleasure-accompanied vs Not pleasure-accompanied",
+          "padas": [
+            {
+              "id": "sukhasahagata-duka-p1",
+              "pada": "Sukhasahagatā dhammā",
+              "paliTranslation": "States accompanied by pleasure",
+              "type": "pada_1",
+              "dabbattha": "63 sukhasahagata cittas, their associated 46 cetasikas (excluding vedanā, dosa, issā, macchariya, kukkucca and vicikicchā)",
+              "cittas": "63 sukhasahagata cittas (62 somanassa + 1 kāyika sukha)",
+              "cetasikas": "46 cetasikas (excluding vedanā itself)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Cittas and associated cetasikas that co-arise with pleasant bodily or mental feeling."
+            },
+            {
+              "id": "sukhasahagata-duka-p2",
+              "pada": "Na sukhasahagatā dhammā",
+              "paliTranslation": "States not accompanied by pleasure",
+              "type": "pada_2",
+              "dabbattha": "3 dukhasahagata cittas, 55 adukkhamasukha sahagata cittas, their associated 51 cetasikas (excluding pīti), 63 sukha vedanā in the 63 sukhasahagata cittas, 28 rūpas, Nibbāna",
+              "cittas": "58 cittas (3 painful/displeasure + 55 equanimous)",
+              "cetasikas": "51 cetasikas + 63 sukha vedanā factors",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Painful and neutral consciousness, sukha vedanā itself, physical form, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "upekhasahagata-duka",
+          "number": 10,
+          "name": "Upekkhāsahagata duka",
+          "paliName": "Upekkhāsahagatadukaṁ",
+          "description": "Dyad of Equanimity-accompanied vs Not equanimity-accompanied",
+          "padas": [
+            {
+              "id": "upekhasahagata-duka-p1",
+              "pada": "Upekkhāsahagatā dhammā",
+              "paliTranslation": "States accompanied by equanimity",
+              "type": "pada_1",
+              "dabbattha": "55 upekkhāsahagata cittas, their associated 46 cetasikas (excluding vedanā, pīti, dosa, issā, macchariya and kukkucca)",
+              "cittas": "55 upekkhāsahagata cittas",
+              "cetasikas": "46 cetasikas (excluding vedanā itself)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Mental states occurring with neutral feeling (adukkhamasukha vedanā)."
+            },
+            {
+              "id": "upekhasahagata-duka-p2",
+              "pada": "Na upekkhāsahagatā dhammā",
+              "paliTranslation": "States not accompanied by equanimity",
+              "type": "pada_2",
+              "dabbattha": "63 sukhasahagata cittas, 3 dukhasahagata cittas, their associated 51 cetasikas (excluding vicikicchā), 55 upekkhā vedanā in the 55 upekkhāsahagata cittas, 28 rūpas, Nibbāna",
+              "cittas": "66 cittas (63 pleasant + 3 painful)",
+              "cetasikas": "51 cetasikas + 55 upekkhā vedanā cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Pleasant and painful consciousness, upekkhā vedanā itself, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "kamavacara-duka",
+          "number": 11,
+          "name": "Kāmāvacara duka",
+          "paliName": "Kāmāvacaradukaṁ",
+          "description": "Dyad of Sense-sphere and Not sense-sphere",
+          "padas": [
+            {
+              "id": "kamavacara-duka-p1",
+              "pada": "Kāmāvacarā dhammā",
+              "paliTranslation": "Sense-sphere states",
+              "type": "pada_1",
+              "dabbattha": "54 kāmāvacara cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "54 kāmāvacara cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All phenomena belonging to the sensual plane of existence."
+            },
+            {
+              "id": "kamavacara-duka-p2",
+              "pada": "Na kāmāvacarā dhammā",
+              "paliTranslation": "Non-sense-sphere states",
+              "type": "pada_2",
+              "dabbattha": "15 rūpāvacara cittas, 12 arūpāvacara cittas, 8 lokuttara cittas, their associated 38 cetasikas, Nibbāna",
+              "cittas": "35 cittas (15 rūpa + 12 arūpa + 8 lokuttara)",
+              "cetasikas": "38 cetasikas",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Fine-material, immaterial, and supramundane consciousness, along with Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "rupavacara-duka",
+          "number": 12,
+          "name": "Rūpāvacara duka",
+          "paliName": "Rūpāvacaradukaṁ",
+          "description": "Dyad of Fine-material-sphere and Not fine-material-sphere",
+          "padas": [
+            {
+              "id": "rupavacara-duka-p1",
+              "pada": "Rūpāvacarā dhammā",
+              "paliTranslation": "Fine-material-sphere states",
+              "type": "pada_1",
+              "dabbattha": "15 rūpāvacara cittas, their associated 35 cetasikas (excluding the 3 viratis)",
+              "cittas": "15 rūpāvacara cittas (5 kusala, 5 vipāka, 5 kiriya)",
+              "cetasikas": "35 cetasikas (excluding the 3 viratis)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Cittas and cetasikas belonging to the fine-material jhana realm."
+            },
+            {
+              "id": "rupavacara-duka-p2",
+              "pada": "Na rūpāvacarā dhammā",
+              "paliTranslation": "Non-fine-material-sphere states",
+              "type": "pada_2",
+              "dabbattha": "54 kāmāvacara cittas, 12 arūpāvacara cittas, 8 lokuttara cittas, their associated 52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "74 cittas (54 kāma + 12 arūpa + 8 lokuttara)",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Sense-sphere, immaterial, and supramundane states, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "arupavacara-duka",
+          "number": 13,
+          "name": "Arūpāvacara duka",
+          "paliName": "Arūpāvacaradukaṁ",
+          "description": "Dyad of Immaterial-sphere and Not immaterial-sphere",
+          "padas": [
+            {
+              "id": "arupavacara-duka-p1",
+              "pada": "Arūpāvacarā dhammā",
+              "paliTranslation": "Immaterial-sphere states",
+              "type": "pada_1",
+              "dabbattha": "12 arūpāvacara cittas, their associated 30 cetasikas (excluding vitakka, vicāra, pīti, the 3 viratis and the 2 appamaññās)",
+              "cittas": "12 arūpāvacara cittas (4 kusala, 4 vipāka, 4 kiriya)",
+              "cetasikas": "30 cetasikas (excluding vitakka, vicāra, pīti, 3 viratis, 2 appamaññās)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Formless sphere consciousness and associated mental factors."
+            },
+            {
+              "id": "arupavacara-duka-p2",
+              "pada": "Na arūpāvacarā dhammā",
+              "paliTranslation": "Non-immaterial-sphere states",
+              "type": "pada_2",
+              "dabbattha": "54 kāmāvacara cittas, 15 rūpāvacara cittas, 8 lokuttara cittas, their associated 52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "77 cittas (54 kāma + 15 rūpa + 8 lokuttara)",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states outside the formless sphere."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "pariyapanna-duka",
+          "number": 14,
+          "name": "Pariyāpanna duka",
+          "paliName": "Pariyāpannadukaṁ",
+          "description": "Dyad of Included (mundane / cyclic) and Unincluded (supramundane)",
+          "padas": [
+            {
+              "id": "pariyapanna-duka-p1",
+              "pada": "Pariyāpannā dhammā",
+              "paliTranslation": "Included states (mundane)",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "States comprised within the three realms of cyclic existence."
+            },
+            {
+              "id": "pariyapanna-duka-p2",
+              "pada": "Apariyāpannā dhammā",
+              "paliTranslation": "Unincluded states (supramundane)",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas (excluding appamaññā), Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas (excluding appamaññā)",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane paths, fruitions, and unconditioned Nibbāna, not contained within the cycle."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "niyyanika-duka",
+          "number": 15,
+          "name": "Niyyānika duka",
+          "paliName": "Niyyānikadukaṁ",
+          "description": "Dyad of Leading out (to Nibbāna) and Not leading out",
+          "padas": [
+            {
+              "id": "niyyanika-duka-p1",
+              "pada": "Niyyānikā dhammā",
+              "paliTranslation": "States leading out of saṃsāra",
+              "type": "pada_1",
+              "dabbattha": "4 lokuttara magga cittas, their associated 36 cetasikas (excluding the 2 appamaññās)",
+              "cittas": "4 lokuttara magga cittas",
+              "cetasikas": "36 cetasikas (excluding appamaññā)",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Only the 4 supramundane Path knowledges decisively lead out of cyclic existence."
+            },
+            {
+              "id": "niyyanika-duka-p2",
+              "pada": "Aniyyānikā dhammā",
+              "paliTranslation": "States not leading out of saṃsāra",
+              "type": "pada_2",
+              "dabbattha": "85 cittas (excluding the 4 lokuttara magga cittas), their associated 52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "85 cittas (all cittas excluding the 4 maggas)",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other cittas (including phala cittas), cetasikas, matter, and Nibbāna."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "niyata-duka",
+          "number": 16,
+          "name": "Niyata duka",
+          "paliName": "Niyatadukaṁ",
+          "description": "Dyad of Certain in destiny (fixed result) and Uncertain in destiny",
+          "padas": [
+            {
+              "id": "niyata-duka-p1",
+              "pada": "Niyatā dhammā",
+              "paliTranslation": "States with fixed results",
+              "type": "pada_1",
+              "dabbattha": "2 dosamūlacittas, their associated 22 cetasikas (excluding pīti, lobha, diṭṭhi, māna and vicikicchā) that arise as the 7th javana while performing 5 heinous deeds; 4 diṭṭhigata sampayutta lobhamūla cittas and their associated 21 cetasikas (excluding māna, dosa, issā, macchariya, kukkucca and vicikicchā) that arise as the 7th javana while descending into fixed wrong views; 4 lokuttara magga cittas, their associated 36 cetasikas (excluding 2 appamaññā)",
+              "cittas": "7th javanas of anantariya-kamma and niyata-micchādiṭṭhi, plus 4 magga cittas",
+              "cetasikas": "Associated cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "States of unalterable consequence: anantariya-kamma (hell immediately after death), niyata-micchādiṭṭhi (fixed wrong view), and the 4 supramundane paths (yielding immediate fruition)."
+            },
+            {
+              "id": "niyata-duka-p2",
+              "pada": "Aniyatā dhammā",
+              "paliTranslation": "States without fixed results",
+              "type": "pada_2",
+              "dabbattha": "85 cittas (excluding 2 dosamūla cittas that arise as the 7th javana while performing 5 heinous deeds, 4 diṭṭhigata sampayutta lobhamūla cittas that arise as the 7th javana while holding fixed wrong views and the 4 magga cittas), their associated 52 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "All remaining cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "All other states whose results or timing are not definitively fixed."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sauttara-duka",
+          "number": 17,
+          "name": "Sauttara duka",
+          "paliName": "Sauttaradukaṁ",
+          "description": "Dyad of Surpassable (mundane) and Incomparable (supramundane)",
+          "padas": [
+            {
+              "id": "sauttara-duka-p1",
+              "pada": "Sauttarā dhammā",
+              "paliTranslation": "States with a superior (surpassable)",
+              "type": "pada_1",
+              "dabbattha": "81 lokiya cittas, their associated 52 cetasikas, 28 rūpas",
+              "cittas": "81 lokiya cittas",
+              "cetasikas": "52 cetasikas",
+              "rupa": "28 rūpas",
+              "nibbana": "None",
+              "explanation": "All mundane dhammas have supramundane dhammas superior to them."
+            },
+            {
+              "id": "sauttara-duka-p2",
+              "pada": "Anuttarā dhammā",
+              "paliTranslation": "States without a superior (unexcelled)",
+              "type": "pada_2",
+              "dabbattha": "8 lokuttara cittas, their associated 36 cetasikas (excluding appamaññā), Nibbāna",
+              "cittas": "8 lokuttara cittas",
+              "cetasikas": "36 cetasikas (excluding appamaññā)",
+              "rupa": "None",
+              "nibbana": "Nibbāna",
+              "explanation": "Supramundane cittas, their cetasikas, and unconditioned Nibbāna have nothing superior to them."
+            }
+          ],
+          "dukamuttaka": null
+        },
+        {
+          "id": "sarana-duka",
+          "number": 18,
+          "name": "Saraṇa duka",
+          "paliName": "Saraṇadukaṁ",
+          "description": "Dyad of With conflict (defiled) and Without conflict (peaceful)",
+          "padas": [
+            {
+              "id": "sarana-duka-p1",
+              "pada": "Saraṇā dhammā",
+              "paliTranslation": "States with war/conflict (defilements)",
+              "type": "pada_1",
+              "dabbattha": "12 akusala cittas, their associated 27 cetasikas",
+              "cittas": "12 akusala cittas",
+              "cetasikas": "27 cetasikas",
+              "rupa": "None",
+              "nibbana": "None",
+              "explanation": "Unwholesome states bring suffering, torment, and internal strife (raṇa = kilesa)."
+            },
+            {
+              "id": "sarana-duka-p2",
+              "pada": "Araṇā dhammā",
+              "paliTranslation": "States without war/conflict (peaceful)",
+              "type": "pada_2",
+              "dabbattha": "21 kusala cittas, 36 vipāka cittas, 20 kiriyā cittas, their associated 36 cetasikas, 28 rūpas, Nibbāna",
+              "cittas": "77 cittas",
+              "cetasikas": "36 cetasikas (excluding unwholesome factors)",
+              "rupa": "28 rūpas",
+              "nibbana": "Nibbāna",
+              "explanation": "Wholesome, resultant, and functional states, matter, and Nibbāna are free from conflict."
+            }
+          ],
+          "dukamuttaka": null
+        }
+      ]
+    }
+  ]
+}

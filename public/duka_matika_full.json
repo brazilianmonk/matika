@@ -1,0 +1,82 @@
+{
+  "title": "Ultimate Representation of Duka Mātikā",
+  "section": "1. Hetu Gocchaka",
+  "columns": ["Duka", "Pada", "Dabbattha"],
+  "rows": [
+    {
+      "duka": "Hetu duka",
+      "pada": "Hetū dhammā",
+      "dabbattha": "Lobha, dosa, moha, alobha, adosa, amoha"
+    },
+    {
+      "duka": "Hetu duka",
+      "pada": "Na hetū dhammā",
+      "dabbattha": "89 cittas, their associated 46 cetasikas (excluding hetus), 28 rūpa, Nibbāna"
+    },
+    {
+      "duka": "Sahetu duka",
+      "pada": "Sahetukā dhammā",
+      "dabbattha": "71 sahetuka cittas, their associated 52 cetasikas (excluding moha in two mohamūla cittas)"
+    },
+    {
+      "duka": "Sahetu duka",
+      "pada": "Ahetukā dhammā",
+      "dabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), moha in two mohamūla cittas, 28 rūpas, Nibbāna"
+    },
+    {
+      "duka": "Hetusampayutta duka",
+      "pada": "Hetusampayuttā dhammā",
+      "dabbattha": "71 sahetuka cittas, their associated 52 cetasikas (excluding moha in 2 mohamūla cittas)"
+    },
+    {
+      "duka": "Hetusampayutta duka",
+      "pada": "Hetuvippayuttā dhammā",
+      "dabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), moha in 2 mohamūla cittas, 28 rūpa, Nibbāna"
+    },
+    {
+      "duka": "Hetu-sahetuka duka",
+      "pada": "Hetū ceva dhammā sahetukā ca",
+      "dabbattha": "6 hetus (excluding moha in 2 mohamūla cittas)"
+    },
+    {
+      "duka": "Hetu-sahetuka duka",
+      "pada": "Sahetukā ceva dhammā na ca hetū",
+      "dabbattha": "71 sahetuka cittas, their associated 46 cetasikas (excluding 6 hetus)"
+    },
+    {
+      "duka": "Hetu-sahetuka duka",
+      "pada": "Dukamuttakā dhammā",
+      "dabbattha": "Ahetukā dhammā"
+    },
+    {
+      "duka": "Hetu-hetusampayutta duka",
+      "pada": "Hetū ceva dhammā hetusampayuttā ca",
+      "dabbattha": "6 hetus (excluding moha in 2 mohamūla cittas)"
+    },
+    {
+      "duka": "Hetu-hetusampayutta duka",
+      "pada": "Hetusampayuttā dhammā na ca hetū",
+      "dabbattha": "71 sahetuka cittas, their associated 46 cetasikas (excluding 6 hetus)"
+    },
+    {
+      "duka": "Hetu-hetusampayutta duka",
+      "pada": "Dukamuttakā dhammā",
+      "dabbattha": "Hetuvippayuttā dhammā"
+    },
+    {
+      "duka": "Na hetu sahetuka duka",
+      "pada": "Na hetū kho pana dhammā sahetukāpi",
+      "dabbattha": "71 sahetuka cittas, their associated 46 cetasikas (excluding 6 hetus)"
+    },
+    {
+      "duka": "Na hetu sahetuka duka",
+      "pada": "Na hetū kho pana dhammā ahetukāpi",
+      "dabbattha": "18 ahetuka cittas, their associated 12 cetasikas (excluding chanda), 28 rūpa, Nibbāna"
+    },
+    {
+      "duka": "Na hetu sahetuka duka",
+      "pada": "Dukamuttakā dhammā",
+      "dabbattha": "Hetu dhammā"
+    }
+  ]
+}
