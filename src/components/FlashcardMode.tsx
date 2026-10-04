@@ -139,7 +139,7 @@ export const FlashcardMode: React.FC<FlashcardModeProps> = ({ gocchakas }) => {
           }`}
         >
           {/* Card Top Banner */}
-          <div className="flex items-center justify-between text-xs">
+          <div className="flex flex-wrap items-center justify-between gap-x-2 gap-y-1 text-xs">
             <span className={`font-semibold uppercase tracking-wider ${isFlipped ? 'text-sky-300' : 'text-emerald-900'}`}>
               {currentCard.dukaName}
             </span>
@@ -150,7 +150,8 @@ export const FlashcardMode: React.FC<FlashcardModeProps> = ({ gocchakas }) => {
                 </span>
               )}
               <span className={`text-[11px] font-mono ${isFlipped ? 'text-slate-400' : 'text-slate-500'}`}>
-                {isFlipped ? 'Answer (Click to flip back)' : 'Prompt (Click to reveal)'}
+                {isFlipped ? 'Answer' : 'Prompt'}
+                <span className="hidden xs:inline">{isFlipped ? ' (Click to flip back)' : ' (Click to reveal)'}</span>
               </span>
             </div>
           </div>

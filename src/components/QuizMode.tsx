@@ -94,7 +94,7 @@ export const QuizMode: React.FC<QuizModeProps> = ({ gocchakas }) => {
           </p>
         </div>
 
-        <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-xs space-y-6">
+        <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-6 shadow-xs space-y-6">
           <div className="space-y-2">
             <label className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
               Select Study Gocchaka (Cluster)
@@ -144,7 +144,8 @@ export const QuizMode: React.FC<QuizModeProps> = ({ gocchakas }) => {
                       : 'border-slate-200 text-slate-700 hover:bg-slate-50'
                   }`}
                 >
-                  {cnt} Questions
+                  {cnt}
+                  <span className="hidden xs:inline"> Questions</span>
                 </button>
               ))}
             </div>
@@ -171,7 +172,7 @@ export const QuizMode: React.FC<QuizModeProps> = ({ gocchakas }) => {
 
     return (
       <div className="w-full max-w-3xl mx-auto space-y-6 py-4">
-        <div className="bg-white border border-slate-200 rounded-xl p-8 text-center shadow-xs space-y-4">
+        <div className="bg-white border border-slate-200 rounded-xl p-5 sm:p-8 text-center shadow-xs space-y-4">
           <div className="inline-flex p-3 bg-sky-100 text-sky-800 rounded-full">
             <Award className="w-8 h-8" />
           </div>
@@ -271,7 +272,7 @@ export const QuizMode: React.FC<QuizModeProps> = ({ gocchakas }) => {
   return (
     <div className="w-full max-w-3xl mx-auto space-y-6 py-4">
       {/* Header bar */}
-      <div className="flex items-center justify-between text-xs text-slate-600 pb-2 border-b border-slate-200">
+      <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-slate-600 pb-2 border-b border-slate-200">
         <div className="font-medium text-slate-800">
           Question <span className="text-slate-900 font-bold">{currentIndex + 1}</span> of{' '}
           <span className="text-slate-900 font-bold">{questions.length}</span>
@@ -296,7 +297,7 @@ export const QuizMode: React.FC<QuizModeProps> = ({ gocchakas }) => {
       </div>
 
       {/* Question Card */}
-      <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-xs space-y-6">
+      <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-6 shadow-xs space-y-6">
         <div>
           <span className="text-[11px] font-semibold uppercase tracking-wider text-sky-800 bg-sky-50 px-2 py-0.5 rounded-sm">
             {currentQ.dukaName}

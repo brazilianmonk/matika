@@ -431,16 +431,16 @@ export const MemoryRevealMode: React.FC<MemoryRevealModeProps> = ({ gocchaka }) 
 
       {/* The Master Table in Full Display */}
       <div className={`overflow-x-auto border-2 ${tableBorderClass} rounded-xs shadow-md ${tableBgClass} transition-colors`}>
-        <table className="w-full border-collapse text-left text-sm">
+        <table className="w-full min-w-[560px] border-collapse text-left text-sm">
           <thead>
             <tr className={`${headerBgClass} border-b-2 font-bold text-center`}>
-              <th className={`py-2.5 px-4 border-r-2 ${tableBorderClass} w-1/4 font-semibold text-base`}>
+              <th className={`py-2 sm:py-2.5 px-2.5 sm:px-4 border-r-2 ${tableBorderClass} w-1/4 font-semibold text-sm sm:text-base`}>
                 Duka
               </th>
-              <th className={`py-2.5 px-4 border-r-2 ${tableBorderClass} w-1/3 font-semibold text-base`}>
+              <th className={`py-2 sm:py-2.5 px-2.5 sm:px-4 border-r-2 ${tableBorderClass} w-1/3 font-semibold text-sm sm:text-base`}>
                 Pada
               </th>
-              <th className="py-2.5 px-4 w-5/12 font-semibold text-base">
+              <th className="py-2 sm:py-2.5 px-2.5 sm:px-4 w-5/12 font-semibold text-sm sm:text-base">
                 Dabbattha
               </th>
             </tr>
@@ -466,7 +466,7 @@ export const MemoryRevealMode: React.FC<MemoryRevealModeProps> = ({ gocchaka }) 
                   {row.isFirstOfDuka && (
                     <td
                       rowSpan={row.dukaRowSpan}
-                      className={`align-top py-3.5 px-4 ${dukaColBgClass} border-r-2 ${tableBorderClass} font-medium text-sm md:text-base leading-snug`}
+                      className={`align-top py-3 px-2.5 sm:px-4 ${dukaColBgClass} border-r-2 ${tableBorderClass} font-medium text-sm md:text-base leading-snug`}
                     >
                       <div className="font-semibold">{row.dukaName}</div>
                       <div className={`text-xs italic mt-0.5 ${isDarkGreen ? 'text-emerald-200' : 'text-slate-600'}`}>
@@ -476,7 +476,7 @@ export const MemoryRevealMode: React.FC<MemoryRevealModeProps> = ({ gocchaka }) 
                   )}
 
                   {/* Pada cell */}
-                  <td className={`py-3 px-4 ${padaColBgClass} border-r-2 ${tableBorderClass}`}>
+                  <td className={`py-2.5 px-2.5 sm:px-4 ${padaColBgClass} border-r-2 ${tableBorderClass}`}>
                     <div className="flex items-center justify-between gap-1">
                       <span className="font-bold italic text-sm md:text-[15px] tracking-wide">
                         {row.pada}
@@ -493,7 +493,7 @@ export const MemoryRevealMode: React.FC<MemoryRevealModeProps> = ({ gocchaka }) 
 
                   {/* Dabbattha cell (Hidden or Revealed) */}
                   <td
-                    className={`py-3 px-4 ${dabbatthaColBgClass} text-sm md:text-[14px] leading-relaxed relative select-none cursor-pointer transition-all ${
+                    className={`py-2.5 px-2.5 sm:px-4 ${dabbatthaColBgClass} text-sm md:text-[14px] leading-relaxed relative select-none cursor-pointer transition-all ${
                       isActive && !isRevealed ? 'bg-emerald-900/40 ring-1 ring-amber-400' : ''
                     }`}
                     onClick={() => toggleRowReveal(row.rowId)}

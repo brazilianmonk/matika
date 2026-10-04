@@ -92,16 +92,16 @@ export const TableDisplay: React.FC<TableDisplayProps> = ({ gocchaka, onSelectPa
 
       {/* Main Table Matching the Original Document */}
       <div className="overflow-x-auto border-2 border-slate-900 rounded-xs shadow-sm bg-white">
-        <table className="w-full border-collapse text-left text-sm">
+        <table className="w-full min-w-[560px] border-collapse text-left text-sm">
           <thead>
             <tr className="bg-slate-300 border-b-2 border-slate-900 text-slate-950 font-bold text-center">
-              <th className="py-2.5 px-4 border-r-2 border-slate-900 w-1/4 font-semibold text-base">
+              <th className="py-2 sm:py-2.5 px-2.5 sm:px-4 border-r-2 border-slate-900 w-1/4 font-semibold text-sm sm:text-base">
                 Duka
               </th>
-              <th className="py-2.5 px-4 border-r-2 border-slate-900 w-1/3 font-semibold text-base">
+              <th className="py-2 sm:py-2.5 px-2.5 sm:px-4 border-r-2 border-slate-900 w-1/3 font-semibold text-sm sm:text-base">
                 Pada
               </th>
-              <th className="py-2.5 px-4 w-5/12 font-semibold text-base">
+              <th className="py-2 sm:py-2.5 px-2.5 sm:px-4 w-5/12 font-semibold text-sm sm:text-base">
                 Dabbattha
               </th>
             </tr>
@@ -126,7 +126,7 @@ export const TableDisplay: React.FC<TableDisplayProps> = ({ gocchaka, onSelectPa
                         {isFirstRow && (
                           <td
                             rowSpan={rowSpanCount}
-                            className="align-top py-3.5 px-4 bg-slate-200/90 text-slate-900 font-medium border-r-2 border-slate-900 text-sm md:text-base leading-snug"
+                            className="align-top py-3 px-2.5 sm:px-4 bg-slate-200/90 text-slate-900 font-medium border-r-2 border-slate-900 text-sm md:text-base leading-snug"
                           >
                             <div className="font-semibold text-slate-950">{duka.name}</div>
                             <div className="text-xs text-slate-600 italic mt-0.5">{duka.paliName}</div>
@@ -137,7 +137,7 @@ export const TableDisplay: React.FC<TableDisplayProps> = ({ gocchaka, onSelectPa
                         )}
 
                         {/* Pada column with light green background matching original image */}
-                        <td className="py-3 px-4 bg-[#86efac] border-r-2 border-slate-900 text-slate-950 border-b border-slate-800">
+                        <td className="py-2.5 px-2.5 sm:px-4 bg-[#86efac] border-r-2 border-slate-900 text-slate-950 border-b border-slate-800">
                           <div className="flex items-start justify-between gap-1">
                             <span className="font-bold italic text-slate-950 text-sm md:text-[15px] tracking-wide">
                               {pada.pada}
@@ -152,7 +152,7 @@ export const TableDisplay: React.FC<TableDisplayProps> = ({ gocchaka, onSelectPa
                         </td>
 
                         {/* Dabbattha column with light green background matching original image */}
-                        <td className="py-3 px-4 bg-[#86efac] text-slate-950 text-sm md:text-[14px] leading-relaxed border-b border-slate-800">
+                        <td className="py-2.5 px-2.5 sm:px-4 bg-[#86efac] text-slate-950 text-sm md:text-[14px] leading-relaxed border-b border-slate-800">
                           <div className="font-medium text-slate-950">
                             {pada.dabbattha}
                           </div>
@@ -190,7 +190,7 @@ export const TableDisplay: React.FC<TableDisplayProps> = ({ gocchaka, onSelectPa
                       onClick={() => onSelectPada?.(duka.dukamuttaka!, duka.name)}
                       title="Click to view detailed analysis"
                     >
-                      <td className="py-3 px-4 bg-[#86efac] border-r-2 border-slate-900 text-slate-950 border-b-2 border-slate-900">
+                      <td className="py-2.5 px-2.5 sm:px-4 bg-[#86efac] border-r-2 border-slate-900 text-slate-950 border-b-2 border-slate-900">
                         <div className="flex items-start justify-between gap-1">
                           <span className="font-bold italic text-slate-950 text-sm md:text-[15px]">
                             {duka.dukamuttaka.pada}
@@ -205,7 +205,7 @@ export const TableDisplay: React.FC<TableDisplayProps> = ({ gocchaka, onSelectPa
                           </div>
                         )}
                       </td>
-                      <td className="py-3 px-4 bg-[#86efac] text-slate-950 text-sm md:text-[14px] leading-relaxed border-b-2 border-slate-900">
+                      <td className="py-2.5 px-2.5 sm:px-4 bg-[#86efac] text-slate-950 text-sm md:text-[14px] leading-relaxed border-b-2 border-slate-900">
                         <div className="font-semibold text-slate-950">
                           {duka.dukamuttaka.dabbattha}
                         </div>

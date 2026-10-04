@@ -22,7 +22,7 @@ export const DabbatthaDetailModal: React.FC<DabbatthaDetailModalProps> = ({ item
         onClick={e => e.stopPropagation()}
       >
         {/* Header */}
-        <div className="px-6 py-4 bg-slate-50 border-b border-slate-200 flex items-center justify-between">
+        <div className="px-4 sm:px-6 py-4 bg-slate-50 border-b border-slate-200 flex items-center justify-between gap-3">
           <div>
             <span className="text-[11px] font-semibold uppercase tracking-wider text-sky-800">
               {dukaName}
@@ -52,7 +52,7 @@ export const DabbatthaDetailModal: React.FC<DabbatthaDetailModalProps> = ({ item
         </div>
 
         {/* Content */}
-        <div className="p-6 overflow-y-auto space-y-5 text-sm">
+        <div className="p-4 sm:p-6 overflow-y-auto space-y-5 text-sm">
           {/* Main Dabbattha Banner */}
           <div className="p-4 bg-emerald-50/70 border border-emerald-300 rounded-xl space-y-1">
             <span className="text-[10px] uppercase font-bold text-emerald-900 tracking-wider">
@@ -74,7 +74,7 @@ export const DabbatthaDetailModal: React.FC<DabbatthaDetailModalProps> = ({ item
               <h4 className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
                 The Four Ultimate Realities (Paramattha Dhammā)
               </h4>
-              <div className="grid grid-cols-2 gap-2 text-xs">
+              <div className="grid grid-cols-1 xs:grid-cols-2 gap-2 text-xs">
                 <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg">
                   <span className="text-slate-500 font-medium block">1. Citta (Consciousness)</span>
                   <span className="font-semibold text-slate-900 text-sm mt-0.5 block">{pada.cittas}</span>
@@ -113,7 +113,7 @@ export const DabbatthaDetailModal: React.FC<DabbatthaDetailModalProps> = ({ item
         </div>
 
         {/* Footer */}
-        <div className="px-6 py-3 bg-slate-50 border-t border-slate-200 flex justify-end">
+        <div className="px-4 sm:px-6 py-3 bg-slate-50 border-t border-slate-200 flex justify-end">
           <button
             onClick={onClose}
             className="px-4 py-1.5 bg-slate-900 text-white rounded-lg text-xs font-medium hover:bg-slate-800 transition-colors cursor-pointer"

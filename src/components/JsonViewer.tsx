@@ -166,31 +166,33 @@ export const JsonViewer: React.FC<JsonViewerProps> = ({ data, onUpdateData, onRe
       </div>
 
       {/* Format Selector */}
-      <div className="flex items-center gap-1 p-1 bg-slate-200/80 rounded-lg w-fit text-xs">
+      <div className="flex flex-wrap items-center gap-1 p-1 bg-slate-200/80 rounded-lg w-full sm:w-fit text-xs">
         <button
           type="button"
           onClick={() => {
             setActiveFormat('exact_table');
             setIsEditing(false);
           }}
-          className={`px-3 py-1.5 font-medium rounded-md transition-all cursor-pointer ${
+          className={`flex-1 sm:flex-none px-3 py-1.5 font-medium rounded-md transition-all cursor-pointer whitespace-nowrap ${
             activeFormat === 'exact_table'
               ? 'bg-white text-slate-900 shadow-xs'
               : 'text-slate-600 hover:text-slate-900'
           }`}
         >
-          Exact Table Format (Duka / Pada / Dabbattha)
+          <span className="sm:hidden">Exact Table</span>
+          <span className="hidden sm:inline">Exact Table Format (Duka / Pada / Dabbattha)</span>
         </button>
         <button
           type="button"
           onClick={() => setActiveFormat('hierarchical')}
-          className={`px-3 py-1.5 font-medium rounded-md transition-all cursor-pointer ${
+          className={`flex-1 sm:flex-none px-3 py-1.5 font-medium rounded-md transition-all cursor-pointer whitespace-nowrap ${
             activeFormat === 'hierarchical'
               ? 'bg-white text-slate-900 shadow-xs'
               : 'text-slate-600 hover:text-slate-900'
           }`}
         >
-          Full Study Model (Hierarchical & Analysis)
+          <span className="sm:hidden">Full Model</span>
+          <span className="hidden sm:inline">Full Study Model (Hierarchical & Analysis)</span>
         </button>
       </div>
 
